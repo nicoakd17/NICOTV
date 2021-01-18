@@ -1,1065 +1,808 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Premium Cinema www.achoAPPS.com
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Premium Movies www.achoAPPS.com
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO 2 www.achoAPPS.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MAXPRIME www.achoAPPS.com
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EUROSPORT2 www.achoAPPS.com
-http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Premium Cinema www.achoAPPS.com
-http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hbo2 Dual (Eng Esp) www.achoAPPS.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Premium Cinema www.achoAPPS.com
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Premium Movies www.achoAPPS.com
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO 2 www.achoAPPS.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SporTV
-http://201.1.151.74:2083/play/a052/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SporTV 2 HD
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18887?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SporTV 3 HD
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18884?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SporTV Alternativo
-http://201.1.151.74:2083/play/a03m/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SporTV FHD
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18882?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", SporTV HD
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18881?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", TBS
-http://201.1.151.74:2083/play/a04f/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Play TV
-http://201.1.151.74:2083/play/a03e/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Education", Portal Cultura Pará
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Education", Portal Cultura Pará
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Premiere 2
-http://201.1.151.74:2083/play/a078/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Premiere 4
-http://201.1.151.74:2083/play/a04s/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Premiere 6
-http://201.1.151.74:2083/play/a047/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Premiere Clubes SD
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18924?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", H2 FHD
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/19020?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", HBO 2 FHD
-http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/4684?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", HBO Family
-http://201.1.151.74:2083/play/a04d/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", HBO Plus
-http://201.1.151.74:2083/play/a03w/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", HBO Signature FHD
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18999?checkedby:hlscat.com
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX MOVIES www.achoAPPS.com
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", fox premium comedy (eng) www.achoAPPS.com
-http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PACK PREMIUM", ESPN ARG
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/80316
-
-#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2_t-290x163.png" group-title="PACK PREMIUM", ESPN 2 ARG
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/80317
-
-#EXTINF:-1 tvg-logo="https://www.cableondasports.com/site/assets/files/others/2018/02/28/MEDGEN/1085/cos-fc-cableondasports.226x90.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", CABLE ONDA SPORTS  FC FUTBOL DE PANAMA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72753
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", CANAL PREMIERE FUTBOL BRASILERO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72749
-
-#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdfhd.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", CDF FUTBOL CHILENO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72747
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="PACK FUTBOL TODAS LAS LIGAS", FOX SPORTS PREMIUM
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79961
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="PACK FUTBOL TODAS LAS LIGAS", FOX SPORTS PREMIUM HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79962
-
-#EXTINF:-1 tvg-logo="https://www.ver-futbol-online.com/golperu.png" group-title="PACK FUTBOL TODAS LAS LIGAS", GOL TV PERU FUTBOL PERUANO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72745
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" group-title="PACK FUTBOL TODAS LAS LIGAS", SKY PREMIER FUTBOL INGLES
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72751
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/692px-SporTV_2017_logo.svg.png" group-title="PACK FUTBOL TODAS LAS LIGAS", SPORTV FUTBOL BRASILERO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72750
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1200px-TD_M%C3%A1s_Logo.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TD+ FUTBOL COSTA RICA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72752
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TIGO SPORTS FUTBOL BOLIVIANO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72746
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TIGO SPORTS FÚTBOL PARAGUAYO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72499
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TNT SPORTS ARG
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/8661
-
-#EXTINF:-1 tvg-logo="https://cablevisionflow.com.ar/assets/img/contenidos/grilla-flow/tnt-sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TNT SPORTS FUTBOL ARGENTINO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/27624
-
-#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", TUDN FUTBOL MEXICANO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72743
-
-#EXTINF:-1 tvg-logo="https://cablevisionflow.com.ar/assets/img/contenidos/grilla-flow/TyC-Sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TYC SPORTS FUTBOL ARGENTINO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/27631
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/184.png" group-title="PACK FUTBOL TODAS LAS LIGAS", VTV FUTBOL URUGUAYO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72748
-
-#EXTINF:-1 tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="PACK FUTBOL TODAS LAS LIGAS", WIN SPORTS FUTBOL COLOMBIANO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72744
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs_paraguay.png" group-title="SERIES Y ENTRETENIMIENTO", TBS HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72834
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports.png" group-title="DEPORTIVOS", AYM SPORT
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/412
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/barca_tv.png" group-title="DEPORTIVOS", BARCA TV
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/429
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bein_sport_en_espanol.png" group-title="DEPORTIVOS", BEIN SPORTS Ñ HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/469
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/613.png" group-title="DEPORTIVOS", DIRECTV PLUS
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/433
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/610.png" group-title="DEPORTIVOS", DIRECTV SPORTS 1
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/432
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/612.png" group-title="DEPORTIVOS", DIRECTV SPORTS 2
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/434
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_republica_dominicana.png" group-title="DEPORTIVOS", ESPN 2 HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/480
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_ecuador.png" group-title="DEPORTIVOS", ESPN HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/479
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_2_espana.png" group-title="DEPORTIVOS", EUROSPORT 2
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/435
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS", GOL TV ECUADOR
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/438
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS", GOL TV ECUADOR HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/491
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS", GOL TV INTERNACIONAL HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/492
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS", MOVISTAR DEPORTES
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/503
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="DEPORTIVOS", MOVISTAR LIGA  BAR
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/501
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/real_madrid_tv.png" group-title="DEPORTIVOS", REAL MADRID TV
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/444
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="DEPORTIVOS", TIGO SPORTS 1 HD (BOLIVIA)
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/505
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports_el_salvador.png" group-title="DEPORTIVOS", TIGO SPORTS 3 SD (BOLIVIA)
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/449
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tdn_2_0.png" group-title="DEPORTIVOS", Univision TDN HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/467
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", NFL NETWORK HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/513
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", COMBATE HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/811
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", ESPN BRASIL HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/812
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", PREMIERE CLUBE HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/820
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" group-title="DEPORTIVOS", TOROS HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1207
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS", MOVISTAR DEPORTES PERU
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1410
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8802_1.png" group-title="DEPORTIVOS", ESPN DEPORTES
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56347
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8831_1.png" group-title="DEPORTIVOS", GOL TV EUROPA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56356
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/610.png" group-title="CHILE", DIRECTV  SPORTS CHILE
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/810
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTIVOS", ESPN 2 CHILE
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79963
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ecuapaginas.com/wp-content/uploads/2019/10/directv-sports.jpg?fit=1280%2C720&ssl=1" group-title="DEPORTIVOS", DIRECTV SPORTS CHILE
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79964
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_htv_m.png" group-title="MUSICALES", HTV
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1675
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8805_1.png" group-title="DEPORTES ARGENTINA", DEPOR TV ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56350
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES ARGENTINA", ESPN HD ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/77726
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_uruguay.png" group-title="DEPORTES ARGENTINA", ESPN 3 HD ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/454
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES ARGENTINA", FOX SPORTS HD  ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/77727
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTES ARGENTINA", Fox Sports 2 HD ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72830
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3.png" group-title="DEPORTES ARGENTINA", FOX SPORTS 3 HD ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/77728
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="DEPORTES ARGENTINA", TNT SPORTS ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79965
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="DEPORTES ARGENTINA", FOX SPORTS PREMIUM ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79966
-
-#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2_t-290x163.png" group-title="PACK PREMIUM", ESPN 2 ARG
-http://uruguayiptv.com:25461/leandro1/leandro123/80317
-
-#EXTINF:-1 tvg-logo="https://www.cableondasports.com/site/assets/files/others/2018/02/28/MEDGEN/1085/cos-fc-cableondasports.226x90.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", CABLE ONDA SPORTS  FC FUTBOL DE PANAMA
-http://uruguayiptv.com:25461/leandro1/leandro123/72753
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", CANAL PREMIERE FUTBOL BRASILERO
-http://uruguayiptv.com:25461/leandro1/leandro123/72749
-
-#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdfhd.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", CDF FUTBOL CHILENO
-http://uruguayiptv.com:25461/leandro1/leandro123/72747
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="PACK FUTBOL TODAS LAS LIGAS", FOX SPORTS PREMIUM
-http://uruguayiptv.com:25461/leandro1/leandro123/79961
-
-#EXTINF:-1 tvg-logo="https://www.ver-futbol-online.com/golperu.png" group-title="PACK FUTBOL TODAS LAS LIGAS", GOL TV PERU FUTBOL PERUANO
-http://uruguayiptv.com:25461/leandro1/leandro123/72745
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" group-title="PACK FUTBOL TODAS LAS LIGAS", SKY PREMIER FUTBOL INGLES
-http://uruguayiptv.com:25461/leandro1/leandro123/72751
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/692px-SporTV_2017_logo.svg.png" group-title="PACK FUTBOL TODAS LAS LIGAS", SPORTV FUTBOL BRASILERO
-http://uruguayiptv.com:25461/leandro1/leandro123/72750
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1200px-TD_M%C3%A1s_Logo.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TD+ FUTBOL COSTA RICA
-http://uruguayiptv.com:25461/leandro1/leandro123/72752
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TIGO SPORTS FUTBOL BOLIVIANO
-http://uruguayiptv.com:25461/leandro1/leandro123/72746
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TIGO SPORTS FÚTBOL PARAGUAYO
-http://uruguayiptv.com:25461/leandro1/leandro123/72499
-
-#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", TUDN FUTBOL MEXICANO
-http://uruguayiptv.com:25461/leandro1/leandro123/72743
-
-#EXTINF:-1 tvg-logo="https://cablevisionflow.com.ar/assets/img/contenidos/grilla-flow/TyC-Sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TYC SPORTS FUTBOL ARGENTINO
-http://uruguayiptv.com:25461/leandro1/leandro123/27631
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/184.png" group-title="PACK FUTBOL TODAS LAS LIGAS", VTV FUTBOL URUGUAYO
-http://uruguayiptv.com:25461/leandro1/leandro123/72748
-
-#EXTINF:-1 tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="PACK FUTBOL TODAS LAS LIGAS", WIN SPORTS FUTBOL COLOMBIANO
-http://uruguayiptv.com:25461/leandro1/leandro123/72744
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs_paraguay.png" group-title="SERIES Y ENTRETENIMIENTO", TBS HD
-http://uruguayiptv.com:25461/leandro1/leandro123/72834
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports.png" group-title="DEPORTIVOS", AYM SPORT
-http://uruguayiptv.com:25461/leandro1/leandro123/412
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bein_sport_en_espanol.png" group-title="DEPORTIVOS", BEIN SPORTS Ñ HD
-http://uruguayiptv.com:25461/leandro1/leandro123/469
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/613.png" group-title="DEPORTIVOS", DIRECTV PLUS
-http://uruguayiptv.com:25461/leandro1/leandro123/433
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/610.png" group-title="DEPORTIVOS", DIRECTV SPORTS 1
-http://uruguayiptv.com:25461/leandro1/leandro123/432
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/612.png" group-title="DEPORTIVOS", DIRECTV SPORTS 2
-http://uruguayiptv.com:25461/leandro1/leandro123/434
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_2_espana.png" group-title="DEPORTIVOS", EUROSPORT 2
-http://uruguayiptv.com:25461/leandro1/leandro123/435
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="DEPORTIVOS", FORMULA 1  HD MOVISTAR
-http://uruguayiptv.com:25461/leandro1/leandro123/778
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS", GOL TV ECUADOR
-http://uruguayiptv.com:25461/leandro1/leandro123/438
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" group-title="DEPORTIVOS", GOL TV ESPAÑA
-http://uruguayiptv.com:25461/leandro1/leandro123/439
-
-#EXTINF:-1 tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="DEPORTIVOS", LA LIGA TV BAR HD
-http://uruguayiptv.com:25461/leandro1/leandro123/490
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS", MOVISTAR DEPORTES
-http://uruguayiptv.com:25461/leandro1/leandro123/503
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="DEPORTIVOS", MOVISTAR LIGA  BAR
-http://uruguayiptv.com:25461/leandro1/leandro123/501
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports_el_salvador.png" group-title="DEPORTIVOS", TIGO SPORTS 3 SD (BOLIVIA)
-http://uruguayiptv.com:25461/leandro1/leandro123/449
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", VTV HD URUGUAY
-http://uruguayiptv.com:25461/leandro1/leandro123/508
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel.png" group-title="DEPORTIVOS", CANAL GOLF
-http://uruguayiptv.com:25461/leandro1/leandro123/1407
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/win_sports.png" group-title="DEPORTIVOS", WIN SPORTS PLUS
-http://uruguayiptv.com:25461/leandro1/leandro123/8704
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS", MOVISTAR DEPORTES PERU
-http://uruguayiptv.com:25461/leandro1/leandro123/1410
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8802_1.png" group-title="DEPORTIVOS", ESPN DEPORTES
-http://uruguayiptv.com:25461/leandro1/leandro123/56347
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8806_1.png" group-title="DEPORTIVOS", WIN SPORTS
-http://uruguayiptv.com:25461/leandro1/leandro123/56351
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTIVOS", ESPN 2 CHILE
-http://uruguayiptv.com:25461/leandro1/leandro123/79963
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ecuapaginas.com/wp-content/uploads/2019/10/directv-sports.jpg?fit=1280%2C720&ssl=1" group-title="DEPORTIVOS", DIRECTV SPORTS CHILE
-http://uruguayiptv.com:25461/leandro1/leandro123/79964
-
-#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2_t-290x163.png" group-title="PACK PREMIUM", ESPN 2 ARG
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/80317
-
-#EXTINF:-1 tvg-logo="https://www.cableondasports.com/site/assets/files/others/2018/02/28/MEDGEN/1085/cos-fc-cableondasports.226x90.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", CABLE ONDA SPORTS  FC FUTBOL DE PANAMA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72753
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", CANAL PREMIERE FUTBOL BRASILERO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72749
-
-#EXTINF:-1 tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdfhd.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", CDF FUTBOL CHILENO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72747
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="PACK FUTBOL TODAS LAS LIGAS", FOX SPORTS PREMIUM
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79961
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="PACK FUTBOL TODAS LAS LIGAS", FOX SPORTS PREMIUM HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79962
-
-#EXTINF:-1 tvg-logo="https://www.ver-futbol-online.com/golperu.png" group-title="PACK FUTBOL TODAS LAS LIGAS", GOL TV PERU FUTBOL PERUANO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72745
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" group-title="PACK FUTBOL TODAS LAS LIGAS", SKY PREMIER FUTBOL INGLES
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72751
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/692px-SporTV_2017_logo.svg.png" group-title="PACK FUTBOL TODAS LAS LIGAS", SPORTV FUTBOL BRASILERO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72750
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1200px-TD_M%C3%A1s_Logo.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TD+ FUTBOL COSTA RICA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72752
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TIGO SPORTS FUTBOL BOLIVIANO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72746
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TIGO SPORTS FÚTBOL PARAGUAYO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72499
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TNT SPORTS ARG
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/8661
-
-#EXTINF:-1 tvg-logo="https://cablevisionflow.com.ar/assets/img/contenidos/grilla-flow/tnt-sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TNT SPORTS FUTBOL ARGENTINO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/27624
-
-#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS", TUDN FUTBOL MEXICANO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72743
-
-#EXTINF:-1 tvg-logo="https://cablevisionflow.com.ar/assets/img/contenidos/grilla-flow/TyC-Sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS", TYC SPORTS FUTBOL ARGENTINO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/27631
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/184.png" group-title="PACK FUTBOL TODAS LAS LIGAS", VTV FUTBOL URUGUAYO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72748
-
-#EXTINF:-1 tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="PACK FUTBOL TODAS LAS LIGAS", WIN SPORTS FUTBOL COLOMBIANO
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72744
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs_paraguay.png" group-title="SERIES Y ENTRETENIMIENTO", TBS HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72834
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports.png" group-title="DEPORTIVOS", AYM SPORT
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/412
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bein_sport_en_espanol.png" group-title="DEPORTIVOS", BEIN SPORTS Ñ HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/469
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports_hd.png" group-title="DEPORTIVOS", CLARO SPORTS
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/414
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/613.png" group-title="DEPORTIVOS", DIRECTV PLUS
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/433
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/610.png" group-title="DEPORTIVOS", DIRECTV SPORTS 1
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/432
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/612.png" group-title="DEPORTIVOS", DIRECTV SPORTS 2
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/434
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_republica_dominicana.png" group-title="DEPORTIVOS", ESPN 2 HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/480
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_ecuador.png" group-title="DEPORTIVOS", ESPN HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/479
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_2_espana.png" group-title="DEPORTIVOS", EUROSPORT 2
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/435
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="DEPORTIVOS", FORMULA 1  HD MOVISTAR
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/778
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS", GOL TV USA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/437
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS", GOL TV ECUADOR
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/438
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS", GOL TV ECUADOR HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/491
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" group-title="DEPORTIVOS", GOL TV ESPAÑA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/439
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS", GOL TV INTERNACIONAL HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/492
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS", GOL TV USA HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/494
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel.png" group-title="DEPORTIVOS", GOLF CHANNEL
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/436
-
-#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/c5a09bd2/dms3rep/multi/Screen+Shot+2019-03-10+at+9.55.12+PM.png" group-title="DEPORTIVOS", PPV NBA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/516
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/real_madrid_tv.png" group-title="DEPORTIVOS", REAL MADRID TV
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/444
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/TDEP.png" group-title="DEPORTIVOS", TELEDEPORTE HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/496
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="DEPORTIVOS", TIGO SPORTS 1 HD (BOLIVIA)
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/505
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports_el_salvador.png" group-title="DEPORTIVOS", TIGO SPORTS 1 SD (BOLIVIA)
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/447
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports_el_salvador.png" group-title="DEPORTIVOS", TIGO SPORTS 2 SD (BOLIVIA)
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/448
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports_el_salvador.png" group-title="DEPORTIVOS", TIGO SPORTS 3 SD (BOLIVIA)
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/449
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tdn_2_0.png" group-title="DEPORTIVOS", Univision TDN HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/467
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="DEPORTIVOS", UFC Fight Pass
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/24942
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", NBA TV HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/510
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", NFL NETWORK HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/513
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", UFC LIVE HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/515
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2_hd.png" group-title="DEPORTIVOS", FOX SPORTS 2 HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/814
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTIVOS", FOX SPORTS HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/815
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", ESPN BRASIL HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/812
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", SPORTV 2 HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/821
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", PREMIERE CLUBE HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/820
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" group-title="DEPORTIVOS", TOROS HD
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1207
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel.png" group-title="DEPORTIVOS", CANAL GOLF
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1407
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/win_sports.png" group-title="DEPORTIVOS", WIN SPORTS PLUS
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/8704
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS", GOL TV USA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1417
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS", MOVISTAR DEPORTES PERU
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1410
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8802_1.png" group-title="DEPORTIVOS", ESPN DEPORTES
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56347
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8806_1.png" group-title="DEPORTIVOS", WIN SPORTS
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56351
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8807_1.png" group-title="DEPORTIVOS", TELEDEPORTE
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56352
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8810_1.png" group-title="DEPORTIVOS", GOL TV PERU
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56354
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8831_1.png" group-title="DEPORTIVOS", GOL TV EUROPA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56356
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8840_1.png" group-title="DEPORTIVOS", REAL MADRID
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56362
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTIVOS", TYC Sport HD INTERNACIONAL
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/504
-
-#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/610.png" group-title="CHILE", DIRECTV  SPORTS CHILE
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/810
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTIVOS", ESPN 2 CHILE
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79963
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ecuapaginas.com/wp-content/uploads/2019/10/directv-sports.jpg?fit=1280%2C720&ssl=1" group-title="DEPORTIVOS", DIRECTV SPORTS CHILE
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79964
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_htv_m.png" group-title="MUSICALES", HTV
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1675
-
-#EXTINF:-1 tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8805_1.png" group-title="DEPORTES ARGENTINA", DEPOR TV ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56350
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES ARGENTINA", ESPN HD ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/77726
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_uruguay.png" group-title="DEPORTES ARGENTINA", ESPN 3 HD ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/454
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES ARGENTINA", FOX SPORTS HD  ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/77727
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTES ARGENTINA", Fox Sports 2 HD ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72830
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3.png" group-title="DEPORTES ARGENTINA", FOX SPORTS 3 HD ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/77728
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="DEPORTES ARGENTINA", TNT SPORTS ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79965
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="DEPORTES ARGENTINA", FOX SPORTS PREMIUM ARGENTINA
-http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79966
-
-#EXTINF:-1 tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •", LD - BEIN SPORTS Ñ HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3747
-
-#EXTINF:-1 tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •", LD - BEIN SPORTS SD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/43187
-
-#EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/7863
-
-#EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS
-http://tv.nstvlatino.com:8080/jairo1/jairo123/33512
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS 2 HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/32882
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS 2
-http://tv.nstvlatino.com:8080/jairo1/jairo123/32881
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS PLUS HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/27879
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS PLUS
-http://tv.nstvlatino.com:8080/jairo1/jairo123/8520
-
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg" group-title="• LATINO DEPORTES •", LD - FOX DEPORTES USA HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3753
-
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 1 SUR HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3612
-
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 1 SUR
-http://tv.nstvlatino.com:8080/jairo1/jairo123/18580
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 SUR HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/16139
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 SUR SD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/42456
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 SUR HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/33475
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 SUR SD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/43640
-
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS MX
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3267
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 MX
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3268
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 MX
-http://tv.nstvlatino.com:8080/jairo1/jairo123/4008
-
-#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 1 SUR HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3614
-
-#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 1 SUR SD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/33469
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/43637
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR SD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3616
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •", LD - ESPN 3 SUR HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3615
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •", LD - ESPN 3 SUR SD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/43639
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS SUR FHD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/7940
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS SUR HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/43638
-
-#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •", LD - ESPN MX
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3178
-
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/7617/64eaua60jei8k3pzg.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 2 MX
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3258
-
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/d823/mp5467d3i5iq4n4zg.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 3 MX
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3260
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS MX
-http://tv.nstvlatino.com:8080/jairo1/jairo123/4120
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN USA
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3751
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - UNIVISION DEPORTES FHD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3962
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/4117
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - TUDN FHD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3963
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •", LD - TYC SPORTS HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3759
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •", LD - TYC SPORTS
-http://tv.nstvlatino.com:8080/jairo1/jairo123/8247
-
-#EXTINF:-1 tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" group-title="PARAGUAY", LD - TIGO SPORTS HD (PARAGUAY)
-http://tv.nstvlatino.com:8080/jairo1/jairo123/29832
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="• LATINO DEPORTES •", LD - CLARO SPORTS HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/12011
-
-#EXTINF:-1 tvg-logo="https://www.sportstravelmagazine.com/wp-content/uploads/2017/03/UFC-LOGO.png" group-title="• LATINO DEPORTES •", LD - UFC  NETWORK FHD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/4082
-
-#EXTINF:-1 tvg-logo="http://www.acessoriosparaautos.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/l/pl5288_1_5.jpg" group-title="• LATINO DEPORTES •", LD - UFC FIGHT LATINOAMERICA
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3421
-
-#EXTINF:-1 tvg-logo="https://images.mediapro.es/imagina_us/custom/block/Golf_Channel_Logo_web2.png" group-title="• LATINO DEPORTES •", LD - GOLF LATIN AMERICA
-http://tv.nstvlatino.com:8080/jairo1/jairo123/33363
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/574737723/logook_400x400.jpg" group-title="• LATINO DEPORTES •", LD - AYM SPORTS
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3089
-
-#EXTINF:-1 tvg-logo="https://p-img.movetv.com/cms/images/6fa62e4f1691da2fbf96eb96bfc6dfda5dfc0ba4.jpg" group-title="• LATINO DEPORTES •", LD - UFC LIVE HD
-http://tv.nstvlatino.com:8080/jairo1/jairo123/53372
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png" group-title="• LATINO DEPORTES •", LD - TVC DEPORTES
-http://tv.nstvlatino.com:8080/jairo1/jairo123/4139
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",TNT SPORTS ARG
-http://uruguayiptv.com:25461/leandro1/leandro123/8661?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",TNT SPORTS ARGENTINA
-http://uruguayiptv.com:25461/leandro1/leandro123/79965?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM
-http://uruguayiptv.com:25461/leandro1/leandro123/79961?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM ARGENTINA
-http://uruguayiptv.com:25461/leandro1/leandro123/79966?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM HD
-http://uruguayiptv.com:25461/leandro1/leandro123/79962?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/19144?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN2
-http://201.1.151.74:2083/play/a03v/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN 2 CHILE
-http://uruguayiptv.com:25461/leandro1/leandro123/79963?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN 3 HD ARGENTINA
-http://uruguayiptv.com:25461/leandro1/leandro123/454?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN DEPORTES
-http://uruguayiptv.com:25461/leandro1/leandro123/56347?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN HD
-http://uruguayiptv.com:25461/leandro1/leandro123/479?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN HD ARGENTINA
-http://uruguayiptv.com:25461/leandro1/leandro123/77726?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/262998.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN Deportes
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DIRECTV SPORTS CHILE
-http://uruguayiptv.com:25461/leandro1/leandro123/79964?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",GOL TV ESPAÑA
-http://uruguayiptv.com:25461/leandro1/leandro123/439?checkedby:hlscat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Gol tv
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/385921.ts?checkedby:hlscat.com
-
-#EXTINF:-1,TNT SPORTS
-https://live.televisiongratishd.com/tvplus2021/9_.m3u8?token=6TgZAy86qiLRprdUw_ccIg&expires=1610670285&ip=190.179.24.249 conn=S:OK --live
-#EXTINF:-1,FOX SPORTS PREMIUM Arg
-https://live.televisiongratishd.com/tvplus2021/10_.m3u8?token=CW0UDC0GP-hHdBcdL7N0gA&expires=1610674104&ip=190.179.24.249 conn=S:OK --live
-
-
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN01
-http://ipeteve.com/php/t121220/mc.php?c=2&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",A&E
-http://ipeteve.com/php/t121220/mc.php?c=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",A3SERIES
+#EXTINF:0,A3SERIES
 http://ipeteve.com/php/t121220/mc.php?c=4&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ADN40
-http://ipeteve.com/php/t121220/mc.php?c=5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AMC
+#EXTINF:0,AMC
 http://ipeteve.com/php/t121220/mc.php?c=6&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ANIMAL PLANET
-http://ipeteve.com/php/t121220/mc.php?c=7&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ANTENA 3
+#EXTINF:0,ANTENA 3
 http://ipeteve.com/php/t121220/mc.php?c=8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AXN
+#EXTINF:0,AXN
 http://ipeteve.com/php/t121220/mc.php?c=9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AYM SPORTS
-http://ipeteve.com/php/t121220/mc.php?c=10&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AZTECA CINEMA
-http://ipeteve.com/php/t121220/mc.php?c=11&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AZTECA CLIC
-http://ipeteve.com/php/t121220/mc.php?c=12&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AZTECA CORAZON
-http://ipeteve.com/php/t121220/mc.php?c=13&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN02
-http://ipeteve.com/php/t121220/mc.php?c=14&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AZTECA 7
+#EXTINF:0,AYM SPORT
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/412
+#EXTINF:0,AYM SPORT
+http://uruguayiptv.com:25461/leandro1/leandro123/412
+#EXTINF:0,AZTECA 7
 http://ipeteve.com/php/t121220/mc.php?c=15&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",AZTECA UNO
+#EXTINF:0,AZTECA CINEMA
+http://ipeteve.com/php/t121220/mc.php?c=11&f=.m3u8
+#EXTINF:0,AZTECA CLIC
+http://ipeteve.com/php/t121220/mc.php?c=12&f=.m3u8
+#EXTINF:0,AZTECA CORAZON
+http://ipeteve.com/php/t121220/mc.php?c=13&f=.m3u8
+#EXTINF:0,AZTECA UNO
 http://ipeteve.com/php/t121220/mc.php?c=16&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANAL 5
-http://ipeteve.com/php/t121220/mc.php?c=21&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",JUSTICIA TV
-http://ipeteve.com/php/t121220/mc.php?c=22&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANAL ONCE
-http://ipeteve.com/php/t121220/mc.php?c=23&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CARTOON NETWORK
+#EXTINF:0,BARCA TV
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/429
+#EXTINF:0,BEIN SPORTS Ñ HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/469
+#EXTINF:0,CABLE ONDA SPORTS  FC FUTBOL DE PANAMA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72753
+#EXTINF:0,CANAL PREMIERE FUTBOL BRASILERO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72749
+#EXTINF:0,CARTOON NETWORK
 http://ipeteve.com/php/t121220/mc.php?c=24&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CINECANAL
-http://ipeteve.com/php/t121220/mc.php?c=25&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CINEMAX
-http://ipeteve.com/php/t121220/mc.php?c=26&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CNN ESPAÑOL
-http://ipeteve.com/php/t121220/mc.php?c=27&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CNN ESPAÑOL 02
-http://ipeteve.com/php/t121220/mc.php?c=28&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",NASA
-http://ipeteve.com/php/t121220/mc.php?c=29&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",COMEDY CENTRAL
-http://ipeteve.com/php/t121220/mc.php?c=30&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CONGRESO TV
-http://ipeteve.com/php/t121220/mc.php?c=31&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN03
-http://ipeteve.com/php/t121220/mc.php?c=32&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DE PELICULA +
-http://ipeteve.com/php/t121220/mc.php?c=34&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISCOVERY CHANNEL
-http://ipeteve.com/php/t121220/mc.php?c=35&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISCOVERY CIVILIZATION
-http://ipeteve.com/php/t121220/mc.php?c=36&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISCOVERY H&H
-http://ipeteve.com/php/t121220/mc.php?c=37&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISCOVERY KIDS
-http://ipeteve.com/php/t121220/mc.php?c=38&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISCOVERY SCI
-http://ipeteve.com/php/t121220/mc.php?c=39&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISCOVERY THEATER
-http://ipeteve.com/php/t121220/mc.php?c=40&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISCOVERY TLC
-http://ipeteve.com/php/t121220/mc.php?c=41&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISCOVERY TURBO
-http://ipeteve.com/php/t121220/mc.php?c=42&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISCOVERY WORLD
-http://ipeteve.com/php/t121220/mc.php?c=43&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISNEY CHANNEL
-http://ipeteve.com/php/t121220/mc.php?c=44&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISNEY JR
-http://ipeteve.com/php/t121220/mc.php?c=45&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISNEY XD
-http://ipeteve.com/php/t121220/mc.php?c=46&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",DISTRITO COMEDIA
-http://ipeteve.com/php/t121220/mc.php?c=47&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",GOURMET
-http://ipeteve.com/php/t121220/mc.php?c=49&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",E!
-http://ipeteve.com/php/t121220/mc.php?c=50&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ESPN
-http://ipeteve.com/php/t121220/mc.php?c=51&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ESPN 2
-http://ipeteve.com/php/t121220/mc.php?c=52&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ESPN 3
-http://ipeteve.com/php/t121220/mc.php?c=53&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ESPN EXTRA
-http://ipeteve.com/php/t121220/mc.php?c=54&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ESPN 2 HD
-http://ipeteve.com/php/t121220/mc.php?c=56&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",EUROPA EUROPA
-http://ipeteve.com/php/t121220/mc.php?c=59&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FILMS&ARTS
-http://ipeteve.com/php/t121220/mc.php?c=60&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FOOD NETWORK
-http://ipeteve.com/php/t121220/mc.php?c=61&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN04 HD
-http://ipeteve.com/php/t121220/mc.php?c=62&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FOX CHANNEL
-http://ipeteve.com/php/t121220/mc.php?c=63&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FOX LIFE
-http://ipeteve.com/php/t121220/mc.php?c=64&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Premium Action
-http://ipeteve.com/php/t121220/mc.php?c=65&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1", Premium Cinema
-http://ipeteve.com/php/t121220/mc.php?c=67&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Premium Comedy
-http://ipeteve.com/php/t121220/mc.php?c=69&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Premium Classics
-http://ipeteve.com/php/t121220/mc.php?c=68&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Premium Family
-http://ipeteve.com/php/t121220/mc.php?c=70&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Premium Series
-http://ipeteve.com/php/t121220/mc.php?c=72&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Premium Movies
-http://ipeteve.com/php/t121220/mc.php?c=71&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN05
-http://ipeteve.com/php/t121220/mc.php?c=71&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN06
-http://ipeteve.com/php/t121220/mc.php?c=72&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN07
-http://ipeteve.com/php/t121220/mc.php?c=73&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO
-http://ipeteve.com/php/t121220/mc.php?c=74&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO 2
-http://ipeteve.com/php/t121220/mc.php?c=75&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO FAMILY
-http://ipeteve.com/php/t121220/mc.php?c=76&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO MUNDI
-http://ipeteve.com/php/t121220/mc.php?c=77&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO POP
-http://ipeteve.com/php/t121220/mc.php?c=79&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HBO XTREME
-http://ipeteve.com/php/t121220/mc.php?c=82&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FOX SPORTS
-http://ipeteve.com/php/t121220/mc.php?c=83&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FOX SPORTS 2
-http://ipeteve.com/php/t121220/mc.php?c=84&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FOX SPORTS 3
-http://ipeteve.com/php/t121220/mc.php?c=85&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FX
-http://ipeteve.com/php/t121220/mc.php?c=90&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",FXM
-http://ipeteve.com/php/t121220/mc.php?c=91&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",GARAGE TV
-http://ipeteve.com/php/t121220/mc.php?c=93&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TNT SPORTS
-http://ipeteve.com/php/t121220/mc.php?c=94&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",GOLDEN
-http://ipeteve.com/php/t121220/mc.php?c=95&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",GOLDEN EDGE
-http://ipeteve.com/php/t121220/mc.php?c=96&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",GOLF CHANNEL
-http://ipeteve.com/php/t121220/mc.php?c=97&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HISTORY
-http://ipeteve.com/php/t121220/mc.php?c=99&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",H2
-http://ipeteve.com/php/t121220/mc.php?c=100&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",HOLATV
-http://ipeteve.com/php/t121220/mc.php?c=101&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",LAS ESTRELLAS
-http://ipeteve.com/php/t121220/mc.php?c=107&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",LIFETIME
-http://ipeteve.com/php/t121220/mc.php?c=109&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",MASCHIC
-http://ipeteve.com/php/t121220/mc.php?c=111&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN08
-http://ipeteve.com/php/t121220/mc.php?c=115&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",MTV LIVE
-http://ipeteve.com/php/t121220/mc.php?c=117&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",NATGEO KIDS
-http://ipeteve.com/php/t121220/mc.php?c=121&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",NATGEO WILD
-http://ipeteve.com/php/t121220/mc.php?c=122&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",NICK
-http://ipeteve.com/php/t121220/mc.php?c=123&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TEEN NICK
-http://ipeteve.com/php/t121220/mc.php?c=124&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",NICK JR
-http://ipeteve.com/php/t121220/mc.php?c=125&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",NICK MUSIC
-http://ipeteve.com/php/t121220/mc.php?c=126&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",PARAMOUNT CHANNEL
-http://ipeteve.com/php/t121220/mc.php?c=127&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",RT ESPAÑOL
-http://ipeteve.com/php/t121220/mc.php?c=131&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",SONY
-http://ipeteve.com/php/t121220/mc.php?c=132&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",SPACE
-http://ipeteve.com/php/t121220/mc.php?c=133&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",STUDIO UNIVERSAL
-http://ipeteve.com/php/t121220/mc.php?c=134&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",SYFY
-http://ipeteve.com/php/t121220/mc.php?c=137&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TBS
-http://ipeteve.com/php/t121220/mc.php?c=138&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TCM
-http://ipeteve.com/php/t121220/mc.php?c=139&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TLNOVELAS
-http://ipeteve.com/php/t121220/mc.php?c=145&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TNT
-http://ipeteve.com/php/t121220/mc.php?c=146&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TNT SERIES
-http://ipeteve.com/php/t121220/mc.php?c=147&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TOONCAST
-http://ipeteve.com/php/t121220/mc.php?c=148&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN09
-http://ipeteve.com/php/t121220/mc.php?c=149&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",TUDN
-http://ipeteve.com/php/t121220/mc.php?c=150&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN10
-http://ipeteve.com/php/t121220/mc.php?c=151&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",UNIVISION
-http://ipeteve.com/php/t121220/mc.php?c=152&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",UNICABLE
-http://ipeteve.com/php/t121220/mc.php?c=158&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",UNIVERSAL CHANNEL
-http://ipeteve.com/php/t121220/mc.php?c=159&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",VH1
-http://ipeteve.com/php/t121220/mc.php?c=160&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",VH1 2
-http://ipeteve.com/php/t121220/mc.php?c=161&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",WOBI
-http://ipeteve.com/php/t121220/mc.php?c=162&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 1 [latm]
-http://ipeteve.com/php/t121220/mc.php?c=86&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 2 [latm]
-http://ipeteve.com/php/t121220/mc.php?c=87&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 3 [latm]
-http://ipeteve.com/php/t121220/mc.php?c=88&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 1 [MEX]
-http://ipeteve.com/php/t121220/mc.php?c=83&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 2 [MEX]
-http://ipeteve.com/php/t121220/mc.php?c=84&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Fox Sports 3 [MEX]
-http://ipeteve.com/php/t121220/mc.php?c=85&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn 1 (latm)
-http://ipeteve.com/php/t121220/mc.php?c=55&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn 2 (latm)
-http://ipeteve.com/php/t121220/mc.php?c=56&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn 3 (latm)
-http://ipeteve.com/php/t121220/mc.php?c=57&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn Plus (latm)
-http://ipeteve.com/php/t121220/mc.php?c=58&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn (MEX)
-http://ipeteve.com/php/t121220/mc.php?c=51&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn 2 (MEX)
-http://ipeteve.com/php/t121220/mc.php?c=52&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Espn 3 (MEX)
-http://ipeteve.com/php/t121220/mc.php?c=53&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CANALSIN11
-http://ipeteve.com/php/t121220/mc.php?c=167&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",ECDF
-http://ipeteve.com/php/t121220/mc.php?c=168&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",GOLTV
-http://ipeteve.com/php/t121220/mc.php?c=172&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CARACOLTV
-http://ipeteve.com/php/t121220/mc.php?c=183&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",RCN
-http://ipeteve.com/php/t121220/mc.php?c=187&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CDF
+#EXTINF:0,CDF
 http://ipeteve.com/php/t121220/mc.php?c=205&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CDF 2
+#EXTINF:0,CDF 2
 http://ipeteve.com/php/t121220/mc.php?c=206&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",CDF P
+#EXTINF:0,CDF FUTBOL CHILENO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72747
+#EXTINF:0,CDF P
 http://ipeteve.com/php/t121220/mc.php?c=207&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",MULTIVISION
+#EXTINF:0,CINECANAL
+http://ipeteve.com/php/t121220/mc.php?c=25&f=.m3u8
+#EXTINF:0,CINEMAX
+http://ipeteve.com/php/t121220/mc.php?c=26&f=.m3u8
+#EXTINF:0,CLARO SPORTS
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/414
+#EXTINF:0,CNN ESPAÑOL
+http://ipeteve.com/php/t121220/mc.php?c=27&f=.m3u8
+#EXTINF:0,COMBATE HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/811
+#EXTINF:0,COMEDY CENTRAL
+http://ipeteve.com/php/t121220/mc.php?c=30&f=.m3u8
+#EXTINF:0,DE PELICULA +
+http://ipeteve.com/php/t121220/mc.php?c=34&f=.m3u8
+#EXTINF:0,DEPOR TV ARGENTINA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56350
+#EXTINF:0,DEPOR TV ARGENTINA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56350
+#EXTINF:0,DIRECTV  SPORTS CHILE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/810
+#EXTINF:0,DIRECTV PLUS
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/433
+#EXTINF:0,DIRECTV SPORTS 1
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/432
+#EXTINF:0,DIRECTV SPORTS 2
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/434
+#EXTINF:0,DIRECTV SPORTS CHILE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79964
+#EXTINF:0,DISCOVERY CIVILIZATION
+http://ipeteve.com/php/t121220/mc.php?c=36&f=.m3u8
+#EXTINF:0,DISCOVERY H&H
+http://ipeteve.com/php/t121220/mc.php?c=37&f=.m3u8
+#EXTINF:0,DISCOVERY KIDS
+http://ipeteve.com/php/t121220/mc.php?c=38&f=.m3u8
+#EXTINF:0,DISCOVERY SCI
+http://ipeteve.com/php/t121220/mc.php?c=39&f=.m3u8
+#EXTINF:0,DISNEY CHANNEL
+http://ipeteve.com/php/t121220/mc.php?c=44&f=.m3u8
+#EXTINF:0,DISNEY JR
+http://ipeteve.com/php/t121220/mc.php?c=45&f=.m3u8
+#EXTINF:0,DISNEY XD
+http://ipeteve.com/php/t121220/mc.php?c=46&f=.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+http://ipeteve.com/php/t121220/mc.php?c=47&f=.m3u8
+#EXTINF:0,E!
+http://ipeteve.com/php/t121220/mc.php?c=50&f=.m3u8
+#EXTINF:0,ECDF
+http://ipeteve.com/php/t121220/mc.php?c=168&f=.m3u8
+#EXTINF:0,ESPN
+http://ipeteve.com/php/t121220/mc.php?c=51&f=.m3u8
+#EXTINF:0,ESPN 2
+http://ipeteve.com/php/t121220/mc.php?c=52&f=.m3u8
+#EXTINF:0,ESPN 2 ARG
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/80317
+#EXTINF:0,ESPN 2 CHILE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79963
+#EXTINF:0,ESPN 2 CHILE
+http://uruguayiptv.com:25461/leandro1/leandro123/79963?checkedby:hlscat.com
+#EXTINF:0,ESPN 2 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/480
+#EXTINF:0,ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733?checkedby:hlscat.com
+#EXTINF:0,ESPN 3
+http://ipeteve.com/php/t121220/mc.php?c=53&f=.m3u8
+#EXTINF:0,ESPN 3 HD ARGENTINA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/454
+#EXTINF:0,ESPN ARG
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/80316
+#EXTINF:0,ESPN BRASIL HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/812
+#EXTINF:0,ESPN DEPORTES
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56347
+#EXTINF:0,ESPN EXTRA
+http://ipeteve.com/php/t121220/mc.php?c=54&f=.m3u8
+#EXTINF:0,ESPN HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/479
+#EXTINF:0,ESPN HD ARGENTINA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/77726
+#EXTINF:0,ESPN1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520?checkedby:hlscat.com
+#EXTINF:0,ESPN2
+http://201.1.151.74:2083/play/a03v/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,EUROPA EUROPA
+http://ipeteve.com/php/t121220/mc.php?c=59&f=.m3u8
+#EXTINF:0,EUROSPORT 2
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/435
+#EXTINF:0,Espn (MEX)
+http://ipeteve.com/php/t121220/mc.php?c=51&f=.m3u8
+#EXTINF:0,Espn 2 (MEX)
+http://ipeteve.com/php/t121220/mc.php?c=52&f=.m3u8
+#EXTINF:0,Espn 2 (MEX)
+http://ipeteve.com/php/t121220/mc.php?c=52&f=.m3u8
+#EXTINF:0,Espn 3 (MEX)
+http://ipeteve.com/php/t121220/mc.php?c=53&f=.m3u8
+#EXTINF:0,FORMULA 1  HD MOVISTAR
+http://uruguayiptv.com:25461/leandro1/leandro123/778
+#EXTINF:0,FORMULA 1  HD MOVISTAR
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/778
+#EXTINF:0,FOX CHANNEL
+http://ipeteve.com/php/t121220/mc.php?c=63&f=.m3u8
+#EXTINF:0,FOX LIFE
+http://ipeteve.com/php/t121220/mc.php?c=64&f=.m3u8
+#EXTINF:0,FOX SPORTS
+http://ipeteve.com/php/t121220/mc.php?c=83&f=.m3u8
+#EXTINF:0,FOX SPORTS 2
+http://ipeteve.com/php/t121220/mc.php?c=84&f=.m3u8
+#EXTINF:0,FOX SPORTS 3
+http://ipeteve.com/php/t121220/mc.php?c=85&f=.m3u8
+#EXTINF:0,FOX SPORTS HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/815
+#EXTINF:0,FOX SPORTS PREMIUM
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79961
+#EXTINF:0,FOX SPORTS PREMIUM
+http://uruguayiptv.com:25461/leandro1/leandro123/79961?checkedby:hlscat.com
+#EXTINF:0,FOX SPORTS PREMIUM ARGENTINA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79966
+#EXTINF:0,FOX SPORTS PREMIUM HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79962
+#EXTINF:0,FX
+http://ipeteve.com/php/t121220/mc.php?c=90&f=.m3u8
+#EXTINF:0,FXM
+http://ipeteve.com/php/t121220/mc.php?c=91&f=.m3u8
+#EXTINF:0,Fox Premium Action
+http://ipeteve.com/php/t121220/mc.php?c=65&f=.m3u8
+#EXTINF:0,Fox Premium Classics
+http://ipeteve.com/php/t121220/mc.php?c=68&f=.m3u8
+#EXTINF:0,Fox Premium Comedy
+http://ipeteve.com/php/t121220/mc.php?c=69&f=.m3u8
+#EXTINF:0,Fox Premium Family
+http://ipeteve.com/php/t121220/mc.php?c=70&f=.m3u8
+#EXTINF:0,Fox Premium Movies
+http://ipeteve.com/php/t121220/mc.php?c=71&f=.m3u8
+#EXTINF:0,Fox Premium Series
+http://ipeteve.com/php/t121220/mc.php?c=72&f=.m3u8
+#EXTINF:0,Fox Sports 1 [MEX]
+http://ipeteve.com/php/t121220/mc.php?c=83&f=.m3u8
+#EXTINF:0,Fox Sports 1 [MEX]
+http://ipeteve.com/php/t121220/mc.php?c=83&f=.m3u8
+#EXTINF:0,Fox Sports 2 [MEX]
+http://ipeteve.com/php/t121220/mc.php?c=84&f=.m3u8
+#EXTINF:0,Fox Sports 2 [MEX]
+http://ipeteve.com/php/t121220/mc.php?c=84&f=.m3u8
+#EXTINF:0,Fox Sports 3 [MEX]
+http://ipeteve.com/php/t121220/mc.php?c=85&f=.m3u8
+#EXTINF:0,Fox Sports 3 [MEX]
+http://ipeteve.com/php/t121220/mc.php?c=85&f=.m3u8
+#EXTINF:0,GARAGE TV
+http://ipeteve.com/php/t121220/mc.php?c=93&f=.m3u8
+#EXTINF:0,GOL TV ECUADOR
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/438
+#EXTINF:0,GOL TV ECUADOR HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/491
+#EXTINF:0,GOL TV ESPAÑA
+http://uruguayiptv.com:25461/leandro1/leandro123/439
+#EXTINF:0,GOL TV EUROPA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56356
+#EXTINF:0,GOL TV INTERNACIONAL HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/492
+#EXTINF:0,GOL TV PERU
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56354
+#EXTINF:0,GOL TV PERU FUTBOL PERUANO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72745
+#EXTINF:0,GOL TV USA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/437
+#EXTINF:0,GOL TV USA HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/494
+#EXTINF:0,GOLDEN
+http://ipeteve.com/php/t121220/mc.php?c=95&f=.m3u8
+#EXTINF:0,GOLDEN EDGE
+http://ipeteve.com/php/t121220/mc.php?c=96&f=.m3u8
+#EXTINF:0,GOLTV
+http://ipeteve.com/php/t121220/mc.php?c=172&f=.m3u8
+#EXTINF:0,H2
+http://ipeteve.com/php/t121220/mc.php?c=100&f=.m3u8
+#EXTINF:0,HBO
+http://ipeteve.com/php/t121220/mc.php?c=74&f=.m3u8
+#EXTINF:0,HBO 2
+http://ipeteve.com/php/t121220/mc.php?c=75&f=.m3u8
+#EXTINF:0,HBO FAMILY
+http://ipeteve.com/php/t121220/mc.php?c=76&f=.m3u8
+#EXTINF:0,HBO Family
+http://201.1.151.74:2083/play/a04d/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,HBO MUNDI
+http://ipeteve.com/php/t121220/mc.php?c=77&f=.m3u8
+#EXTINF:0,HBO POP
+http://ipeteve.com/php/t121220/mc.php?c=79&f=.m3u8
+#EXTINF:0,HBO Plus
+http://201.1.151.74:2083/play/a03w/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,HBO XTREME
+http://ipeteve.com/php/t121220/mc.php?c=82&f=.m3u8
+#EXTINF:0,HISTORY
+http://ipeteve.com/php/t121220/mc.php?c=99&f=.m3u8
+#EXTINF:0,HTV
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1675
+#EXTINF:0,HTV
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1675
+#EXTINF:0,LA LIGA TV BAR HD
+http://uruguayiptv.com:25461/leandro1/leandro123/490
+#EXTINF:0,LAS ESTRELLAS
+http://ipeteve.com/php/t121220/mc.php?c=107&f=.m3u8
+#EXTINF:0,LD - AYM SPORTS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3089
+#EXTINF:0,LD - CLARO SPORTS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/12011
+#EXTINF:0,LD - DIRECTV SPORTS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/33512
+#EXTINF:0,LD - DIRECTV SPORTS 2
+http://tv.nstvlatino.com:8080/jairo1/jairo123/32881
+#EXTINF:0,LD - DIRECTV SPORTS 2 HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/32882
+#EXTINF:0,LD - DIRECTV SPORTS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/7863
+#EXTINF:0,LD - DIRECTV SPORTS PLUS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/8520
+#EXTINF:0,LD - DIRECTV SPORTS PLUS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/27879
+#EXTINF:0,LD - ESPN 2 MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3258
+#EXTINF:0,LD - ESPN 3 MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3260
+#EXTINF:0,LD - ESPN MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3178
+#EXTINF:0,LD - ESPN PLUS MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4120
+#EXTINF:0,LD - FOX DEPORTES USA HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3753
+#EXTINF:0,LD - FOX SPORTS 2 MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3268
+#EXTINF:0,LD - FOX SPORTS 3 MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4008
+#EXTINF:0,LD - FOX SPORTS MX
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3267
+#EXTINF:0,LD - TIGO SPORTS HD (PARAGUAY)
+http://tv.nstvlatino.com:8080/jairo1/jairo123/29832
+#EXTINF:0,LD - TUDN FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3963
+#EXTINF:0,LD - TVC DEPORTES
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4139
+#EXTINF:0,LD - TYC SPORTS
+http://tv.nstvlatino.com:8080/jairo1/jairo123/8247
+#EXTINF:0,LD - TYC SPORTS HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3759
+#EXTINF:0,LD - UFC  NETWORK FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4082
+#EXTINF:0,LD - UFC FIGHT LATINOAMERICA
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3421
+#EXTINF:0,LD - UFC LIVE HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/53372
+#EXTINF:0,LD - UNIVISION DEPORTES FHD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3962
+#EXTINF:0,LD - UNIVISION TUDN HD
+http://tv.nstvlatino.com:8080/jairo1/jairo123/4117
+#EXTINF:0,MASCHIC
+http://ipeteve.com/php/t121220/mc.php?c=111&f=.m3u8
+#EXTINF:0,MAXPRIME www.achoAPPS.com
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:0,MOVISTAR DEPORTES
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/503
+#EXTINF:0,MOVISTAR LIGA  BAR
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/501
+#EXTINF:0,MULTIVISION
 http://ipeteve.com/php/t121220/mc.php?c=215&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",VTV +
-http://ipeteve.com/php/t121220/mc.php?c=220&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",GOLPERU
-http://ipeteve.com/php/t121220/mc.php?c=229&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Telemundo
+#EXTINF:0,NASA
+http://ipeteve.com/php/t121220/mc.php?c=29&f=.m3u8
+#EXTINF:0,NATGEO KIDS
+http://ipeteve.com/php/t121220/mc.php?c=121&f=.m3u8
+#EXTINF:0,NBA TV HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/510
+#EXTINF:0,NFL NETWORK HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/513
+#EXTINF:0,NICK
+http://ipeteve.com/php/t121220/mc.php?c=123&f=.m3u8
+#EXTINF:0,NICK JR
+http://ipeteve.com/php/t121220/mc.php?c=125&f=.m3u8
+#EXTINF:0,NICK MUSIC
+http://ipeteve.com/php/t121220/mc.php?c=126&f=.m3u8
+#EXTINF:0,PARAMOUNT CHANNEL
+http://ipeteve.com/php/t121220/mc.php?c=127&f=.m3u8
+#EXTINF:0,PPV NBA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/516
+#EXTINF:0,PREMIERE CLUBE HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/820
+#EXTINF:0,Play TV
+http://201.1.151.74:2083/play/a03e/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,Premiere 2
+http://201.1.151.74:2083/play/a078/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,Premiere 4
+http://201.1.151.74:2083/play/a04s/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,Premiere 6
+http://201.1.151.74:2083/play/a047/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,Premiere Clubes SD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18924?checkedby:hlscat.com
+#EXTINF:0,Premium Cinema
+http://ipeteve.com/php/t121220/mc.php?c=67&f=.m3u8
+#EXTINF:0,RCN
+http://ipeteve.com/php/t121220/mc.php?c=187&f=.m3u8
+#EXTINF:0,REAL MADRID
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56362
+#EXTINF:0,SKY PREMIER FUTBOL INGLES
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72751
+#EXTINF:0,SONY
+http://ipeteve.com/php/t121220/mc.php?c=132&f=.m3u8
+#EXTINF:0,SPACE
+http://ipeteve.com/php/t121220/mc.php?c=133&f=.m3u8
+#EXTINF:0,SPORTV 2 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/821
+#EXTINF:0,SPORTV FUTBOL BRASILERO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72750
+#EXTINF:0,STUDIO UNIVERSAL
+http://ipeteve.com/php/t121220/mc.php?c=134&f=.m3u8
+#EXTINF:0,SYFY
+http://ipeteve.com/php/t121220/mc.php?c=137&f=.m3u8
+#EXTINF:0,SporTV
+http://201.1.151.74:2083/play/a052/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,SporTV 2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18887?checkedby:hlscat.com
+#EXTINF:0,SporTV 3 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18884?checkedby:hlscat.com
+#EXTINF:0,SporTV Alternativo
+http://201.1.151.74:2083/play/a03m/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,SporTV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18881?checkedby:hlscat.com
+#EXTINF:0,TBS
+http://201.1.151.74:2083/play/a04f/index.m3u8?checkedby:hlscat.com
+#EXTINF:0,TBS HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72834
+#EXTINF:0,TCM
+http://ipeteve.com/php/t121220/mc.php?c=139&f=.m3u8
+#EXTINF:0,TD+ FUTBOL COSTA RICA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72752
+#EXTINF:0,TEEN NICK
+http://ipeteve.com/php/t121220/mc.php?c=124&f=.m3u8
+#EXTINF:0,TELEDEPORTE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56352
+#EXTINF:0,TIGO SPORTS 1 HD (BOLIVIA)
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/505
+#EXTINF:0,TIGO SPORTS 2 SD (BOLIVIA)
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/448
+#EXTINF:0,TIGO SPORTS 3 SD (BOLIVIA)
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/449
+#EXTINF:0,TIGO SPORTS FUTBOL BOLIVIANO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72746
+#EXTINF:0,TIGO SPORTS FÚTBOL PARAGUAYO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72499
+#EXTINF:0,TLNOVELAS
+http://ipeteve.com/php/t121220/mc.php?c=145&f=.m3u8
+#EXTINF:0,TNT
+http://ipeteve.com/php/t121220/mc.php?c=146&f=.m3u8
+#EXTINF:0,TNT
+http://ipeteve.com/php/t121220/mc.php?c=146&f=.m3u8
+#EXTINF:0,TNT SERIES
+http://ipeteve.com/php/t121220/mc.php?c=147&f=.m3u8
+#EXTINF:0,TNT SPORTS
+http://ipeteve.com/php/t121220/mc.php?c=94&f=.m3u8
+#EXTINF:0,TNT SPORTS ARG
+http://uruguayiptv.com:25461/leandro1/leandro123/8661?checkedby:hlscat.com
+#EXTINF:0,TNT SPORTS ARGENTINA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79965
+#EXTINF:0,TNT SPORTS FUTBOL ARGENTINO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/27624
+#EXTINF:0,TOONCAST
+http://ipeteve.com/php/t121220/mc.php?c=148&f=.m3u8
+#EXTINF:0,TUDN
+http://ipeteve.com/php/t121220/mc.php?c=150&f=.m3u8
+#EXTINF:0,TUDN FUTBOL MEXICANO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72743
+#EXTINF:0,TYC SPORTS FUTBOL ARGENTINO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/27631
+#EXTINF:0,Telemundo
 http://ipeteve.com/php/t121220/mc.php?c=243&f=.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" group-title="canales 1",Univision
+#EXTINF:0,UFC Fight Pass
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/24942
+#EXTINF:0,UNICABLE
+http://ipeteve.com/php/t121220/mc.php?c=158&f=.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL
+http://ipeteve.com/php/t121220/mc.php?c=159&f=.m3u8
+#EXTINF:0,UNIVISION
+http://ipeteve.com/php/t121220/mc.php?c=152&f=.m3u8
+#EXTINF:0,Univision
 http://ipeteve.com/php/t121220/mc.php?c=244&f=.m3u8
+#EXTINF:0,Univision TDN HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/467
+#EXTINF:0,VH1
+http://ipeteve.com/php/t121220/mc.php?c=160&f=.m3u8
+#EXTINF:0,VTV +
+http://ipeteve.com/php/t121220/mc.php?c=220&f=.m3u8
+#EXTINF:0,VTV FUTBOL URUGUAYO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72748
+#EXTINF:0,VTV HD URUGUAY
+http://uruguayiptv.com:25461/leandro1/leandro123/508
+#EXTINF:0,WIN SPORTS FUTBOL COLOMBIANO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72744
+
+#EXTINF:0, Cartoon Network [HD]
+https://teleclub.xyz/tele/canal?tele=CARTOON_HD&format=.m3u8
+#EXTINF:0, Disney Channel [HD]
+https://teleclub.xyz/tele/canal?tele=DISNEY_HD&format=.m3u8
+#EXTINF:0, NICK
+https://teleclub.xyz/tele/canal?tv=NICK&format=.m3u8
+#EXTINF:0, NICK MUSIC
+https://teleclub.xyz/tele/canal?tv=NICKMUSIC&format=.m3u8
+#EXTINF:0, Tooncast [SD]
+https://teleclub.xyz/tele/canal?tele=TOONCAST_SD&format=.m3u8
+#EXTINF:0, Distrito Comedia
+https://teleclub.xyz/tele/canal?tv=DISTRITOCOMEDIA&format=.m3u8
+#EXTINF:0, HBO
+https://teleclub.xyz/tele/canal?tv=HBO&format=.m3u8
+#EXTINF:0, HBO [SD]
+https://teleclub.xyz/tele/canal?tele=HBO_SD&format=.m3u8
+#EXTINF:0, HBO [HD]
+https://teleclub.xyz/tele/canal?tele=HBO_HD&format=.m3u8
+#EXTINF:0, HBO2
+https://teleclub.xyz/tele/canal?tv=HBO2&format=.m3u8
+#EXTINF:0, HBO2 [SD]
+https://teleclub.xyz/tele/canal?tele=HBO2_SD&format=.m3u8
+#EXTINF:0, HBO2 [HD]
+https://teleclub.xyz/tele/canal?tele=HBO2_HD&format=.m3u8
+#EXTINF:0, HBO PLUS
+https://teleclub.xyz/tele/canal?tv=HBOPLUS&format=.m3u8
+#EXTINF:0, HBO PLUS [SD]
+https://teleclub.xyz/tele/canal?tele=HBOPLUS_SD&format=.m3u8
+#EXTINF:0, HBO PLUS [HD]
+https://teleclub.xyz/tele/canal?tele=HBOPLUS_HD&format=.m3u8
+#EXTINF:0, HBO FAMILY
+https://teleclub.xyz/tele/canal?tv=HBOFAMILY&format=.m3u8
+#EXTINF:0, HBO FAMILY [SD]
+https://teleclub.xyz/tele/canal?tele=HBOFAMILY_SD&format=.m3u8
+#EXTINF:0, HBO SIGNATURE
+https://teleclub.xyz/tele/canal?tv=HBOSIGNATURE&format=.m3u8
+#EXTINF:0, HBO SIGNATURE [SD]
+https://teleclub.xyz/tele/canal?tele=HBOSIGNATURE_SD&format=.m3u8
+#EXTINF:0, HBO SIGNATURE [HD]
+https://teleclub.xyz/tele/canal?tele=HBOSIGNATURE_HD&format=.m3u8
+#EXTINF:0, HBO MUNDI
+https://teleclub.xyz/tele/canal?tv=HBOMUNDI&format=.m3u8
+#EXTINF:0, HBO MUNDI [SD]
+https://teleclub.xyz/tele/canal?tele=HBOMUNDI_SD&format=.m3u8
+#EXTINF:0, HBO MUNDI [HD]
+https://teleclub.xyz/tele/canal?tele=HBOMUNDI_HD&format=.m3u8
+#EXTINF:0, HBO POP
+https://teleclub.xyz/tele/canal?tv=HBOPOP&format=.m3u8
+#EXTINF:0, HBO POP [SD]
+https://teleclub.xyz/tele/canal?tele=HBOPOP_SD&format=.m3u8
+#EXTINF:0, HBO XTREME
+https://teleclub.xyz/tele/canal?tv=HBOXTREME&format=.m3u8
+#EXTINF:0, HBO XTREME [SD]
+https://teleclub.xyz/tele/canal?tele=HBOXTREME_SD&format=.m3u8
+#EXTINF:0, HBO XTREME [HD]
+https://teleclub.xyz/tele/canal?tele=HBOXTREME_HD&format=.m3u8
+#EXTINF:0, Fox Premium Action
+https://teleclub.xyz/tele/canal?tv=FOXACTION&format=.m3u8
+#EXTINF:0, Fox Premium Action [SD]
+https://teleclub.xyz/tele/canal?tele=FOXACTION_SD&format=.m3u8
+#EXTINF:0, Fox Premium Action [2][SD]
+https://teleclub.xyz/tele/canal?tele=FOXACTION_SD2&format=.m3u8
+#EXTINF:0, Fox Premium Action [HD]
+https://teleclub.xyz/tele/canal?tele=FOXACTION_HD&format=.m3u8
+#EXTINF:0, Fox Premium Cinema
+https://teleclub.xyz/tele/canal?tv=FOXCINEMA&format=.m3u8
+#EXTINF:0, Fox Premium Cinema [HD]
+https://teleclub.xyz/tele/canal?tele=FOXCINEMA_HD&format=.m3u8
+#EXTINF:0, Fox Premium Comedy
+https://teleclub.xyz/tele/canal?tv=FOXCOMEDY&format=.m3u8
+#EXTINF:0, Fox Premium Comedy [SD]
+https://teleclub.xyz/tele/canal?tele=FOXCOMEDY_SD&format=.m3u8
+#EXTINF:0, Fox Premium Comedy [HD]
+https://teleclub.xyz/tele/canal?tele=FOXCOMEDY_HD&format=.m3u8
+#EXTINF:0, Fox Premium Classic
+https://teleclub.xyz/tele/canal?tv=FOXCLASSIC&format=.m3u8
+#EXTINF:0, Fox Premium Classic [SD]
+https://teleclub.xyz/tele/canal?tele=FOXCLASSIC_SD&format=.m3u8
+#EXTINF:0, Fox Premium Classic [HD]
+https://teleclub.xyz/tele/canal?tele=FOXCLASSIC_HD&format=.m3u8
+#EXTINF:0, Fox Premium Family
+https://teleclub.xyz/tele/canal?tv=FOXFAMILY&format=.m3u8
+#EXTINF:0, Fox Premium Family [SD]
+https://teleclub.xyz/tele/canal?tele=FOXFAMILY_SD&format=.m3u8
+#EXTINF:0, Fox Premium Series
+https://teleclub.xyz/tele/canal?tv=FOXSERIES&format=.m3u8
+#EXTINF:0, Fox Premium Series [SD]
+https://teleclub.xyz/tele/canal?tele=FOXSERIES_SD&format=.m3u8
+#EXTINF:0, Fox Premium Movies
+https://teleclub.xyz/tele/canal?tv=FOXMOVIES&format=.m3u8
+#EXTINF:0, Fox Premium Movies [SD]
+https://teleclub.xyz/tele/canal?tele=FOXMOVIES_SD&format=.m3u8
+#EXTINF:0, Fox Premium Movies [HD]
+https://teleclub.xyz/tele/canal?tele=FOXMOVIES_HD&format=.m3u8
+#EXTINF:0, MTV [SD]
+https://teleclub.xyz/tele/canal?tele=MTV_SD&format=.m3u8 
+#EXTINF:0, MTV 80s [SD]
+https://teleclub.xyz/tele/canal?tele=MTV80_SD&format=.m3u8
+#EXTINF:0, MTV Live
+https://teleclub.xyz/tele/canal?tv=MTVLIVE&format=.m3u8
+#EXTINF:0, MTV Hits
+https://teleclub.xyz/tele/canal?tv=MTVHITS&format=.m3u8
+#EXTINF:0, VH1 CLASSIC
+https://teleclub.xyz/tele/canal?tv=VH1CLASSIC&format=.m3u8
+#EXTINF:0, VH1
+https://teleclub.xyz/tele/canal?tv=VH1&format=.m3u8
+#EXTINF:0, TOPLATINO [SD]
+https://teleclub.xyz/tele/canal?tele=TOPLATINO_SD&format=.m3u8
+#EXTINF:0, CM (Android|SmarTV)
+https://teleclub.xyz/tele/canal?ver=CM_MUSICA&format=.m3u8
+#EXTINF:0, GOLTV ES
+https://teleclub.xyz/tele/canal?tele=GOLTV_ES&format=.m3u8
+#EXTINF:0, Afizzionados [SD]
+https://teleclub.xyz/tele/canal?tele=AFIZZIONADOS_SD&format=.m3u8
+#EXTINF:0, WIN SPORT [HD]
+https://teleclub.xyz/tele/canal?tele=WIN_SPORT_HD&format=.m3u8
+#EXTINF:0, WIN SPORT PLUS [HD]
+https://teleclub.xyz/tele/canal?tele=WIN_SPORT_PLUS_HD&format=.m3u8
+#EXTINF:0, TNT SPORT [SD]
+https://teleclub.xyz/tele/canal?tele=TNT_SPORT_SD&format=.m3u8
+#EXTINF:0, TNT SPORT [HD]
+https://teleclub.xyz/tele/canal?tele=TNT_SPORT_HD&format=.m3u8
+#EXTINF:0, BEIN SPORT [SD]
+https://teleclub.xyz/tele/canal?tele=BEIN_SPORT_SD&format=.m3u8
+#EXTINF:0, CDF [SD]
+https://teleclub.xyz/tele/canal?tele=CDF_P_SD&format=.m3u8
+#EXTINF:0, CDF [HD]
+https://teleclub.xyz/tele/canal?tele=CDF_HD&format=.m3u8
+#EXTINF:0, DIRECTV SPORT
+https://teleclub.xyz/tele/canal?tv=DIRECTV_SPORT&format=.m3u8
+#EXTINF:0, DIRECTV SPORT 2
+https://teleclub.xyz/tele/canal?tv=DIRECTV_SPORT2&format=.m3u8
+#EXTINF:0, DIRECTV SPORT PLUS
+https://teleclub.xyz/tele/canal?tv=DIRECTV_SPORTPLUS&format=.m3u8
+#EXTINF:0, DIRECTV SPORT [SD]
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORT_SD&format=.m3u8
+#EXTINF:0, DIRECTV SPORT 2 [SD]
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORT2_SD&format=.m3u8
+#EXTINF:0, DIRECTV SPORT PLUS [SD]
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORTPLUS_SD&format=.m3u8
+#EXTINF:0, DIRECTV SPORT [HD]
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORT_HD&format=.m3u8
+#EXTINF:0, DIRECTV SPORT 2 [HD]
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORT2_HD&format=.m3u8
+#EXTINF:0, DIRECTV SPORT PLUS [HD]
+https://teleclub.xyz/tele/canal?tele=DIRECTV_SPORTPLUS_HD&format=.m3u8
+#EXTINF:0, AyM Sport
+https://teleclub.xyz/tele/canal?tv=AYMSPORT&format=.m3u8
+#EXTINF:0, Fox Sport Premium 
+https://teleclub.xyz/tele/canal?tele=FOXSPORTS_PREMIUM&format=.m3u8
+#EXTINF:0, Fox Sport MEX [SD]
+https://teleclub.xyz/tele/canal?tele=FOXSPORT_MEX_SD&format=.m3u8
+#EXTINF:0, Fox Sport 2 MEX [SD]
+https://teleclub.xyz/tele/canal?tele=FOXSPORT2_MEX_SD&format=.m3u8
+#EXTINF:0, Fox Sport 3 MEX [SD]
+https://teleclub.xyz/tele/canal?tele=FOXSPORT3_MEX_SD&format=.m3u8
+#EXTINF:0, Fox Sport MEX [HD]
+https://teleclub.xyz/tele/canal?tele=FOXSPORT_MEX_HD&format=.m3u8
+#EXTINF:0, Fox Sport 2 MEX [HD]
+https://teleclub.xyz/tele/canal?tele=FOXSPORT2_MEX_HD&format=.m3u8
+#EXTINF:0, Fox Sport 3 MEX [HD]
+https://teleclub.xyz/tele/canal?tele=FOXSPORT3_MEX_HD&format=.m3u8
+#EXTINF:0, ESPN MEX
+https://teleclub.xyz/tele/canal?tv=ESPN_MEX&format=.m3u8
+#EXTINF:0, ESPN 2 MEX
+https://teleclub.xyz/tele/canal?tv=ESPN2_MEX&format=.m3u8
+#EXTINF:0, ESPN 3 MEX
+https://teleclub.xyz/tele/canal?tv=ESPN3_MEX&format=.m3u8
+#EXTINF:0, ESPN EXTRA MEX
+https://teleclub.xyz/tele/canal?tv=ESPNPLUS_MEX&format=.m3u8
+#EXTINF:0, ESPN MEX [SD]
+https://teleclub.xyz/tele/canal?tele=ESPN_MEX_SD&format=.m3u8
+#EXTINF:0, ESPN 2 MEX [SD]
+https://teleclub.xyz/tele/canal?tele=ESPN2_MEX_SD&format=.m3u8
+#EXTINF:0, ESPN 3 MEX [SD]
+https://teleclub.xyz/tele/canal?tele=ESPN3_MEX_SD&format=.m3u8
+#EXTINF:0, ESPN MEX [HD]
+https://teleclub.xyz/tele/canal?tele=ESPN_MEX_HD&format=.m3u8
+#EXTINF:0, ESPN 2 MEX [HD]
+https://teleclub.xyz/tele/canal?tele=ESPN2_MEX_HD&format=.m3u8
+#EXTINF:0, ESPN 3 MEX [HD]
+https://teleclub.xyz/tele/canal?tele=ESPN3_MEX_HD&format=.m3u8
+#EXTINF:0, ECDF : El Canal del Futbol 
+https://teleclub.xyz/tele/canal?tv=ECDF&format=.m3u8
+#EXTINF:0, GOLTV 
+https://teleclub.xyz/tele/canal?tv=GOLTV&format=.m3u8
+#EXTINF:0, GOLTV ALT
+https://teleclub.xyz/tele/canal?tv=GOLTV2&format=.m3u8
+#EXTINF:0, CLARO SPORT
+https://teleclub.xyz/tele/canal?tv=CLAROSPORT&format=.m3u8
+#EXTINF:0, CLARO SPORT 2
+https://teleclub.xyz/tele/canal?tv=CLAROSPORT2&format=.m3u8
+#EXTINF:0, TUDN USA
+https://teleclub.xyz/tele/canal?tv=TUDN_USA&format=.m3u8
+#EXTINF:0, GOLF TV
+https://teleclub.xyz/tele/canal?tv=GOLFTV&format=.m3u8
+#EXTINF:0, GARAGE TV
+https://teleclub.xyz/tele/canal?tv=GARAGETV&format=.m3u8
+#EXTINF:0, 24/7 | Los Simpsons
+https://teleclub.xyz/tele/canal?tv=247_SIMPSONS&format=.m3u8
+#EXTINF:0, 24/7 | Los Simpsons [2]
+https://teleclub.xyz/tele/canal?tv=247_SIMPSON&format=.m3u8
+#EXTINF:0, 24/7 | Alf
+https://teleclub.xyz/tele/canal?tele=ALF_247&format=.m3u8
+#EXTINF:0, 24/7 | Animaniatics
+https://teleclub.xyz/tele/canal?tv=247_ANIMANIATICS&format=.m3u8
+#EXTINF:0, 24/7 | Bob Esponja
+https://teleclub.xyz/tele/canal?tv=247_BOBESPONJA&format=.m3u8
+#EXTINF:0, 24/7 | El Chavo del 8 [2]
+https://teleclub.xyz/tele/canal?tv=247_CHAVO&format=.m3u8
+#EXTINF:0, 24/7 | Futurama
+https://teleclub.xyz/tele/canal?tv=247_FUTURAMA&format=.m3u8
+#EXTINF:0, 24/7 | Teoria del Bing Bang
+https://teleclub.xyz/tele/canal?tv=247_BINGBANG&format=.m3u8
+#EXTINF:0, 24/7 | Pokemon
+https://teleclub.xyz/tele/canal?tv=247_POKEMON&format=.m3u8
+#EXTINF:0, 24/7 | Supercampeones
+https://teleclub.xyz/tele/canal?tv=247_SUPERCAMPEONES&format=.m3u8
+#EXTINF:0, 24/7 | Peliculas
+https://teleclub.xyz/tele/canal?tv=247_PELICULAS&format=.m3u8
+
+
+#EXTINF:0,24/7  CORAJE EL PERRO COBARDE
+http://zufreelist.net:8080/aerfv/aerf/873
+#EXTINF:0,24/7  DINOSAURIOS 1991
+http://zufreelist.net:8080/aerfv/aerf/875
+#EXTINF:0,24/7  DRAGON BALL 1984
+http://zufreelist.net:8080/aerfv/aerf/876
+#EXTINF:0,24/7  LOS SIMPSON
+http://zufreelist.net:8080/aerfv/aerf/877
+#EXTINF:0,24/7  SOUTH PARK
+http://zufreelist.net:8080/aerfv/aerf/878
+#EXTINF:0,24/7 ALF
+http://zufreelist.net:8080/aerfv/aerf/880
+#EXTINF:0,24/7 BATMAN 1966 RETRO
+http://zufreelist.net:8080/aerfv/aerf/883
+#EXTINF:0,24/7 BOB ESPONJA
+http://zufreelist.net:8080/aerfv/aerf/884
+#EXTINF:0,24/7 BREAKING  BAD
+http://zufreelist.net:8080/aerfv/aerf/885
+#EXTINF:0,24/7 CABALLEROS DEL ZODIACO
+http://zufreelist.net:8080/aerfv/aerf/886
+#EXTINF:0,24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8080/aerfv/aerf/891
+#EXTINF:0,24/7 DRAGON  BALL SUPER
+http://zufreelist.net:8080/aerfv/aerf/892
+#EXTINF:0,24/7 DRAGON BALL GT 1996
+http://zufreelist.net:8080/aerfv/aerf/893
+#EXTINF:0,24/7 DRAGON BALL Z 1989
+http://zufreelist.net:8080/aerfv/aerf/894
+#EXTINF:0,24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8080/aerfv/aerf/896
+#EXTINF:0,24/7 EL CHAVO DEL 8
+http://zufreelist.net:8080/aerfv/aerf/897
+#EXTINF:0,24/7 EL COYOTE Y CORRE CAMINOS
+http://zufreelist.net:8080/aerfv/aerf/899
+#EXTINF:0,24/7 FUTURAMA 1999
+http://zufreelist.net:8080/aerfv/aerf/902
+#EXTINF:0,24/7 He-Man
+http://zufreelist.net:8080/aerfv/aerf/904
+#EXTINF:0,24/7 LA PANTERA ROSA
+http://zufreelist.net:8080/aerfv/aerf/910
+#EXTINF:0,24/7 Mazinger Z
+http://zufreelist.net:8080/aerfv/aerf/918
+#EXTINF:0,24/7 Naruto
+http://zufreelist.net:8080/aerfv/aerf/919
+#EXTINF:0,24/7 Peliculas de terror
+http://zufreelist.net:8080/aerfv/aerf/920
+#EXTINF:0,24/7 PELICULAS ESTRENOS 2018
+http://zufreelist.net:8080/aerfv/aerf/921
+#EXTINF:0,24/7 PINKY y CEREBRO
+http://zufreelist.net:8080/aerfv/aerf/923
+#EXTINF:0,24/7 PokÃ©mon
+http://zufreelist.net:8080/aerfv/aerf/924
+#EXTINF:0,24/7 POWER RANGERS
+http://zufreelist.net:8080/aerfv/aerf/925
+#EXTINF:0,24/7 SAILOR MOON
+http://zufreelist.net:8080/aerfv/aerf/927
+#EXTINF:0,24/7 SPIDER-MAN
+http://zufreelist.net:8080/aerfv/aerf/932
+#EXTINF:0,24/7 SUPER CAMPEONES
+http://zufreelist.net:8080/aerfv/aerf/934
+#EXTINF:0,24/7 XMEN ANIME
+http://zufreelist.net:8080/aerfv/aerf/936
+#EXTINF:0,CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/aerfv/aerf/1
+#EXTINF:0,CINEMA:  TCM SD*
+http://zufreelist.net:8080/aerfv/aerf/2
+#EXTINF:0,CINEMA: AMC SD*
+http://zufreelist.net:8080/aerfv/aerf/3
+#EXTINF:0,CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/aerfv/aerf/4
+#EXTINF:0,CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/aerfv/aerf/5
+#EXTINF:0,CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/aerfv/aerf/6
+#EXTINF:0,CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/aerfv/aerf/7
+#EXTINF:0,CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/aerfv/aerf/8
+#EXTINF:0,CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/aerfv/aerf/9
+#EXTINF:0,CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/aerfv/aerf/10
+#EXTINF:0,CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/aerfv/aerf/11
+#EXTINF:0,CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/aerfv/aerf/14
+#EXTINF:0,CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/aerfv/aerf/15
+#EXTINF:0,CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/aerfv/aerf/16
+#EXTINF:0,CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/aerfv/aerf/17
+#EXTINF:0,CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/aerfv/aerf/18
+#EXTINF:0,CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/aerfv/aerf/19
+#EXTINF:0,CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/aerfv/aerf/20
+#EXTINF:0,CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/aerfv/aerf/21
+#EXTINF:0,CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/aerfv/aerf/22
+#EXTINF:0,CINEMA: HBO Family SD*
+http://zufreelist.net:8080/aerfv/aerf/23
+#EXTINF:0,CINEMA: HBO MUNDI
+http://zufreelist.net:8080/aerfv/aerf/24
+#EXTINF:0,CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/aerfv/aerf/25
+#EXTINF:0,CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/aerfv/aerf/26
+#EXTINF:0,CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/aerfv/aerf/27
+#EXTINF:0,CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/aerfv/aerf/28
+#EXTINF:0,CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/aerfv/aerf/29
+#EXTINF:0,CINEMA: SPACE SD*
+http://zufreelist.net:8080/aerfv/aerf/30
+#EXTINF:0,CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/aerfv/aerf/31
+#EXTINF:0,CINEMA: SYFY*
+http://zufreelist.net:8080/aerfv/aerf/32
+#EXTINF:0,CINEMA: TNT SD*
+http://zufreelist.net:8080/aerfv/aerf/33
+#EXTINF:0,FOX LIFE
+http://zufreelist.net:8080/aerfv/aerf/66
+#EXTINF:0,NIÃhttp://zufreelist.net:8080/aerfv/aerf/89
+#EXTINF:0,NIÃhttp://zufreelist.net:8080/aerfv/aerf/90
+#EXTINF:0,SERIE: A&E SD*
+http://zufreelist.net:8080/aerfv/aerf/67
+#EXTINF:0,SERIE: A3SERIES
+http://zufreelist.net:8080/aerfv/aerf/68
+#EXTINF:0,SERIE: AXN SD*
+http://zufreelist.net:8080/aerfv/aerf/69
+#EXTINF:0,SERIE: EURO Channel SD*
+http://zufreelist.net:8080/aerfv/aerf/70
+#EXTINF:0,SERIE: FOX SD *
+http://zufreelist.net:8080/aerfv/aerf/71
+#EXTINF:0,SERIE: FX Movies SD*
+http://zufreelist.net:8080/aerfv/aerf/72
+#EXTINF:0,SERIE: FX SD*
+http://zufreelist.net:8080/aerfv/aerf/73
+#EXTINF:0,SERIE: FXM TP MX
+http://zufreelist.net:8080/aerfv/aerf/74
+#EXTINF:0,SERIE: SONY SD*
+http://zufreelist.net:8080/aerfv/aerf/76
+#EXTINF:0,SERIE: TNT SERIES*
+http://zufreelist.net:8080/aerfv/aerf/77
+#EXTINF:0,SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/aerfv/aerf/78
+#EXTINF:0,SERIES: WARNER SD*
+http://zufreelist.net:8080/aerfv/aerf/79
