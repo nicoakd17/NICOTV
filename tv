@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECLUB.XYZ" tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="1TV", Latino | Teleclub!
-https://ia601401.us.archive.org/23/items/teleclub-anuncio/anuncio.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECLUB.XYZ"  tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="1TV", Lista Gratuita 20/01/2021
-https://ia601401.us.archive.org/23/items/teleclub-anuncio/anuncio.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECLUB.XYZ"  tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="1TV", Activar desde www.teleclub.xyz
-https://ia601401.us.archive.org/23/items/teleclub-anuncio/anuncio.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECLUB.XYZ"  tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="1TV", Telegram: @teleclubsoporte
-https://ia601401.us.archive.org/23/items/teleclub-anuncio/anuncio.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [SD]
 https://teleclub.xyz/cable/teleclub?latino=CARTOON_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [HD]
@@ -37,6 +28,36 @@ https://teleclub.xyz/cable/teleclub?latino=TOONCAST_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agCjY8n.png" group-title="Infantil", Boomerang [SD]
 https://teleclub.xyz/cable/teleclub?latino=BOOMERANG_SD&format=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+https://teleclub.xyz/cable/teleclub?android=CARTOON&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=DISNEY&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" group-title="Infantil", Disney XD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=DISNEYXD&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=NATGEOKIDS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=NICK&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", TEEN NICK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=TEENNICK&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", NICK MUSIC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=NICKMUSIC&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK JR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=NICKJR&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" group-title="Infantil", Discovery Kids
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=DKIDS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" group-title="Infantil", Tooncast
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=TOONCAST&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Y9uawT.png" group-title="Noticias", CNN en Espanol [SD]
 https://teleclub.xyz/cable/teleclub?latino=CNNESPANOL_SD&format=.m3u8
@@ -52,7 +73,6 @@ https://teleclub.xyz/cable/teleclub?latino=FOROTV_SD&format=.m3u8
 https://teleclub.xyz/cable/teleclub?latino=ABCNEWS_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Qje64Q.jpg" group-title="Noticias", FOX NEWS [SD]
 https://teleclub.xyz/cable/teleclub?latino=FOXNEWS_SD&format=.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo", Telefe [SD]
 https://teleclub.xyz/cable/teleclub?latino=TELEFE_ARG&format=.m3u8
@@ -80,7 +100,6 @@ https://teleclub.xyz/cable/teleclub?latino=LASESTRELLAS_HD&format=.m3u8
 https://teleclub.xyz/cable/teleclub?latino=UNICABLE_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xvgKK5S.png" group-title="Mundo", RCN [SD]
 https://teleclub.xyz/cable/teleclub?latino=RCN_SD&format=.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Entretenimiento", Animal Planet [SD]
 https://teleclub.xyz/cable/teleclub?latino=ANIMALPLANET_SD&format=.m3u8
@@ -130,7 +149,18 @@ https://teleclub.xyz/cable/teleclub?latino=ELGOURMET_SD&format=.m3u8
 https://teleclub.xyz/cable/teleclub?latino=COMEDYCENTRAL_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pWW9ljW.jpg" group-title="Entretenimiento", Distrito Comedia [SD]
 https://teleclub.xyz/cable/teleclub?latino=DISTRITOCOMEDIA_SD&format=.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Entretenimiento", MTV
+https://teleclub.xyz/cable/teleclub?espana=MTV_ES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpUxOYs.jpg" group-title="Entretenimiento", Fox Life
+https://teleclub.xyz/cable/teleclub?espana=FOXLIFE_ES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Entretenimiento", Discovery
+https://teleclub.xyz/cable/teleclub?espana=DISCOVERY_ES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" group-title="Entretenimiento", NATGEO Wild
+https://teleclub.xyz/cable/teleclub?espana=NATGEOWILD_ES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Entretenimiento", NATGEO 
+https://teleclub.xyz/cable/teleclub?espana=NATGEO_ES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CEJRI4O.jpg" group-title="Entretenimiento", Comedy Central
+https://teleclub.xyz/cable/teleclub?espana=COMEDYCENTRAL_ES&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="HBOPremium", HBO [SD]
 https://teleclub.xyz/cable/teleclub?latino=HBO_SD&format=.m3u8
@@ -160,7 +190,30 @@ https://teleclub.xyz/cable/teleclub?latino=HBOPOP_SD&format=.m3u8
 https://teleclub.xyz/cable/teleclub?latino=HBOXTREME_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="HBOPremium", HBO XTREME [HD]
 https://teleclub.xyz/cable/teleclub?latino=HBOXTREME_HD&format=.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="HBOPremium", HBO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=HBO&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="HBOPremium", HBO2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=HBO2&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="HBOPremium", HBO PLUS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=HBOPLUS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="HBOPremium", HBO FAMILY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=HBOFAMILY&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="HBOPremium", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=HBOSIGNATURE&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="HBOPremium", HBO MUNDI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=HBOMUNDI&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="HBOPremium", HBO POP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=HBOPOP&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="HBOPremium", HBO XTREME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=HBOXTREME&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium", Fox Premium Action [SD]
 https://teleclub.xyz/cable/teleclub?latino=FOXACTION_SD&format=.m3u8
@@ -186,7 +239,27 @@ https://teleclub.xyz/cable/teleclub?latino=FOXSERIES_SD&format=.m3u8
 https://teleclub.xyz/cable/teleclub?latino=FOXMOVIES_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium", Fox Premium Movies [HD]
 https://teleclub.xyz/cable/teleclub?latino=FOXMOVIES_HD&format=.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium", Fox Premium Action
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXACTION&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RefOTUQ.jpg" group-title="FOXPremium", Fox Premium Cinema
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXCINEMA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bu51K0m.jpg" group-title="FOXPremium", Fox Premium Comedy
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXCOMEDY&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ex7EVPH.jpg" group-title="FOXPremium", Fox Premium Classic
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXCLASSIC&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtsDvN9.jpg" group-title="FOXPremium", Fox Premium Family
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXFAMILY&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyA3yba.jpg" group-title="FOXPremium", Fox Premium Series
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXSERIES&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVUnwn.jpg" group-title="FOXPremium", Fox Premium Movies
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXMOVIES&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jC9jPwt.jpg" group-title="SeriesPeliculas", Fox Channel [SD]
 https://teleclub.xyz/cable/teleclub?latino=FOX_SD&format=.m3u8
@@ -255,7 +328,6 @@ https://teleclub.xyz/cable/teleclub?latino=DEPELICULA_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKyvkOK.png" group-title="SeriesPeliculas", SYFY [SD]
 https://teleclub.xyz/cable/teleclub?latino=SYFY_SD&format=.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aqVHPQT.png" group-title="Musica", HTV [SD]
 https://teleclub.xyz/cable/teleclub?latino=HTV_SD&format=.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" group-title="Musica", MTV [SD]
@@ -274,7 +346,6 @@ https://teleclub.xyz/cable/teleclub?latino=TELEHIT_SD&format=.m3u8
 https://teleclub.xyz/cable/teleclub?latino=TOPLATINO_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqwFEcS.jpg" group-title="Musica", CM (Android|SmarTV)
 https://teleclub.xyz/cable/teleclub?ver=CM_MUSICA&format=.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZrqVI0.png" group-title="Deporte", Afizzionados [SD]
 https://teleclub.xyz/cable/teleclub?latino=AFIZZIONADOS_SD&format=.m3u8
@@ -360,6 +431,68 @@ https://teleclub.xyz/cable/teleclub?latino=ESPN_MEX_HD&format=.m3u8
 https://teleclub.xyz/cable/teleclub?latino=ESPN2_MEX_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 3 MEX [HD]
 https://teleclub.xyz/cable/teleclub?latino=ESPN3_MEX_HD&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deporte", TNT SPORT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=TNTSPORTS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deporte", DIRECTV SPORT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=DIRECTV_SPORT&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deporte", DIRECTV SPORT 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=DIRECTV_SPORT2&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deporte", DIRECTV SPORT PLUS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=DIRECTV_SPORTPLUS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport MEX 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXSPORT_MEX&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 2 MEX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXSPORT2_MEX&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 3 MEX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=FOXSPORT3_MEX&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=ESPNPLUS_LAT&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN MEX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=ESPN_MEX&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 2 MEX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=ESPN2_MEX&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 3 MEX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=ESPN3_MEX&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN EXTRA MEX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=ESPNPLUS_MEX&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lLeq98m.png" group-title="Deporte", ECDF : El Canal del Futbol 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=ECDF&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deporte", GOLTV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=GOLTV&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deporte", GOLTV ALT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=GOLTV2&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deporte", CLARO SPORT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=CLAROSPORT&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deporte", CLARO SPORT 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=CLAROSPORT2&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deporte", TUDN USA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=TUDN_USA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Hfhpq4.png" group-title="Deporte", TeleDeporte
+https://teleclub.xyz/cable/teleclub?espana=TELEDEPORTE_ES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imxymgy.png" group-title="Deporte", Euro Sport
+https://teleclub.xyz/cable/teleclub?espana=EUROSPORT_ES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imxymgy.png" group-title="Deporte", Euro Sport 2
+https://teleclub.xyz/cable/teleclub?espana=EUROSPORT2_ES&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jHYcj91.jpg" group-title="Deporte", La liga TV Bar
+https://teleclub.xyz/cable/teleclub?espana=LALIGATVBAR_ES&format=.m3u8
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="BEIN SPORTS HD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="Deporte",BEIN SPORTS HD
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3747
@@ -583,3 +716,37 @@ https://teleclub.xyz/cable/teleclub?latino=ALF_247&format=.m3u8
 https://teleclub.xyz/cable/teleclub?latino=SOUTHPARK_247&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | El chavo del 8 
 https://teleclub.xyz/cable/teleclub?latino=CHAVO_247&format=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Los Simpsons
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_SIMPSONS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Los Simpsons [2]
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_SIMPSON&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Alf 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_ALF&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Animaniatics
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_ANIMANIATICS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Bob Esponja
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_BOBESPONJA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | El Chavo del 8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_CHAVO&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Futurama
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_FUTURAMA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Pantera Rosa
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_PANTERAROSA&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Pokemon
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_POKEMON&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Supercampeones
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_SUPERCAMPEONES&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", 24/7 | Peliculas
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
+https://teleclub.xyz/cable/teleclub?android=247_PELICULAS&format=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
