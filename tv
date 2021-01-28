@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="24/7",SIMPSON 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="24/7",EL CHAVO
@@ -17,9 +16,23 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 #EXTINF:-1 group-title="SeriesPeliculas",RETRO TV
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
+#EXTINF:-1 group-title="SeriesPeliculas",SPACE
+http://balancer1.ottmex.com:8081/tecno/Space.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="SeriesPeliculas",GOLDEN PREMIER
+http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="SeriesPeliculas",TNT
+http://balancer1.ottmex.com:8081/tecno/Tnt.TecnoByte/chunks.m3u8
 
 #EXTINF:-1 group-title="INFANTIL",Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY XD
+http://balancer1.ottmex.com:8081/tecno/DisneyXD.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="INFANTIL",DISNEY JR
+http://balancer1.ottmex.com:8081/tecno/DisneyJR.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="INFANTIL",NICK
+http://balancer1.ottmex.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="INFANTIL",TOONCAST
+http://balancer1.ottmex.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento",LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
@@ -27,6 +40,32 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
 #EXTINF:-1 group-title="Entretenimiento",VE PLUS
 http://190.122.96.187:8888/http/006
+#EXTINF:-1 group-title="Entretenimiento",ANIMAL PLANET
+http://balancer1.ottmex.com:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="Entretenimiento",NAT GEO
+http://balancer1.ottmex.com:8081/tecno/NatGeo.TecnoByte/chunks.m3u8
+#EXTINF:-1 group-title="Entretenimiento",DISCOVERY TURBO
+http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="Entretenimiento",ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 group-title="HBO PREMIUM",HBO
+http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="HBO PREMIUM",HBO 2
+http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="HBO PREMIUM",HBO PLUS
+http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="HBO PREMIUM",HBO SIGNATURE
+http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="HBO PREMIUM",HBO FAMILY
+http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+
+#EXTINF:-1 group-title="FOX PREMIUM",FOX ACTION
+http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="FOX PREMIUM",FOX SERIES
+http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+#EXTINF:-1 group-title="FOX PREMIUM",FOX FAMILY
+http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
 
 #EXTINF:-1 group-title="LOCALES",Canal de la Ciudad
 https://ny1.stweb.tv/gcba/ngrp:live_all/chunklist_w466822703_b946000.m3u8
@@ -41,6 +80,7 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w375340092
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 #EXTINF:-1 group-title="MUSICA",MIX 24/7 TOP 100
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Deporte", ESPN ARG
 http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/80316
@@ -167,275 +207,3 @@ https://sv.tsnt.xyz/espn/espn1o_sur.m3u8?ul9t7g
 http://tv.nousiptv.com:8080/Lucy/123456/4193
 #EXTINF:-1 group-title="Deporte",TNT SPORT
 http://tv.nousiptv.com:8080/Lucy/123456/33457
-
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",27/Ene/2021
-http://tecnotv.club/star/smartv.php?id=azteca-7-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",GOLPERU 
-http://tecnotv.club/star/smartv.php?id=gol-peru-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",GOL TV 
-http://tecnotv.club/star/smartv.php?id=gol-tv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",CDF Premium 
-http://tecnotv.club/star/smartv.php?id=cdf-premium-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Win Sports 
-http://tecnotv.club/star/smartv.php?id=win-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",TNT Sports 
-http://tecnotv.club/star/smartv.php?id=tnt-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Premium 
-http://tecnotv.club/star/smartv.php?id=fox-sports-premium-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",TYC Sports 
-http://tecnotv.club/star/smartv.php?id=tyc-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Sports 
-http://tecnotv.club/star/smartv.php?id=fox-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Sports 2 
-http://tecnotv.club/star/smartv.php?id=fox-sports-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Sports 3 
-http://tecnotv.club/star/smartv.php?id=fox-sports-3-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",ESPN Deportes 
-http://tecnotv.club/star/smartv.php?id=espn-deportes-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",ESPN Plus 
-http://tecnotv.club/star/smartv.php?id=espn-plus-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",ESPN 
-http://tecnotv.club/star/smartv.php?id=espn-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",ESPN 2 
-http://tecnotv.club/star/smartv.php?id=espn-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",ESPN 3 
-http://tecnotv.club/star/smartv.php?id=espn-3-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Directv Sports 
-http://tecnotv.club/star/smartv.php?id=directv-sports-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Directv Sports 2 
-http://tecnotv.club/star/smartv.php?id=directv-sports-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Directv Sports Plus 
-http://tecnotv.club/star/smartv.php?id=directv-sports-plus-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Bein La Liga 
-http://tecnotv.club/star/smartv.php?id=bein-la-liga-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Sports Mexico 
-http://tecnotv.club/star/smartv.php?id=fox-sports-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Sports 2 Mexico 
-http://tecnotv.club/star/smartv.php?id=fox-sports-2-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Sports 3 Mexico 
-http://tecnotv.club/star/smartv.php?id=fox-sports-3-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Espn Mexico 
-http://tecnotv.club/star/smartv.php?id=espn-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Espn 2 Mexico 
-http://tecnotv.club/star/smartv.php?id=espn-2-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Espn 3 Mexico 
-http://tecnotv.club/star/smartv.php?id=espn-3-mexico-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Izzi Afizzionados 
-http://tecnotv.club/star/smartv.php?id=izzi-afizzionados-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",NBA 
-http://tecnotv.club/star/smartv.php?id=nba-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",NFL Network 
-http://tecnotv.club/star/smartv.php?id=nfl-network-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",TVC Deportes 
-http://tecnotv.club/star/smartv.php?id=tvc-deportes-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",WWE Network 
-http://tecnotv.club/star/smartv.php?id=wwe-network-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",TUDN 
-http://tecnotv.club/star/smartv.php?id=tudn-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",HBO 
-http://tecnotv.club/star/smartv.php?id=hbo-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",hbo 2 
-http://tecnotv.club/star/smartv.php?id=hbo-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",hboplus 
-http://tecnotv.club/star/smartv.php?id=hbo-plus-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",HBO Family 
-http://tecnotv.club/star/smartv.php?id=hbo-family-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",HBO Xtreme 
-http://tecnotv.club/star/smartv.php?id=hbo-xtreme-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",HBO POP 
-http://tecnotv.club/star/smartv.php?id=hbo-pop-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",FOX PREMIUM ACTION 
-http://tecnotv.club/star/smartv.php?id=fox-premium-action-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",FOX PREMIUM SERIES 
-http://tecnotv.club/star/smartv.php?id=fox-premium-series-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Premium Movies 
-http://tecnotv.club/star/smartv.php?id=fox-premium-movies-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Premium Family 
-http://tecnotv.club/star/smartv.php?id=fox-premium-family-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",Space 
-http://tecnotv.club/star/smartv.php?id=space-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Warner Bros TV 
-http://tecnotv.club/star/smartv.php?id=warner-bros-tv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",TNT 
-http://tecnotv.club/star/smartv.php?id=tnt-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox 
-http://tecnotv.club/star/smartv.php?id=fox-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Cinemax 
-http://tecnotv.club/star/smartv.php?id=cinemax-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Cinecanal 
-http://tecnotv.club/star/smartv.php?id=cinecanal-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Syfy 
-http://tecnotv.club/star/smartv.php?id=syfy-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Az Cinema 
-http://tecnotv.club/star/smartv.php?id=az-cinema-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",Telefe 
-http://tecnotv.club/star/smartv.php?id=telefe-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",El Trece 
-http://tecnotv.club/star/smartv.php?id=el-trece-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Telemundo 
-http://tecnotv.club/star/smartv.php?id=telemundo-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Pasiones 
-http://tecnotv.club/star/smartv.php?id=pasiones-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Azteca Uno 
-http://tecnotv.club/star/smartv.php?id=azteca-uno-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Az Mundo 
-http://tecnotv.club/star/smartv.php?id=az-mundo-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Galavision 
-http://tecnotv.club/star/smartv.php?id=galavision-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Tlnovelas 
-http://tecnotv.club/star/smartv.php?id=tlnovelas-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Las Estrellas 
-http://tecnotv.club/star/smartv.php?id=las-estrellas-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Caracol 
-http://tecnotv.club/star/smartv.php?id=caracol-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",atv 
-http://tecnotv.club/star/smartv.php?id=atv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Univision 
-http://tecnotv.club/star/smartv.php?id=univision-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Unicable 
-http://tecnotv.club/star/smartv.php?id=unicable-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Unimas 
-http://tecnotv.club/star/smartv.php?id=unimas-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Azteca 7 
-http://tecnotv.club/star/smartv.php?id=azteca-7-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Canal 5 
-http://tecnotv.club/star/smartv.php?id=canal-5-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Latina 
-http://tecnotv.club/star/smartv.php?id=latina-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",America TV 
-http://tecnotv.club/star/smartv.php?id=america-tv-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",Distrito Comedia 
-http://tecnotv.club/star/smartv.php?id=distrito-comedia-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Imagen TV 
-http://tecnotv.club/star/smartv.php?id=imagen-tv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",FX 
-http://tecnotv.club/star/smartv.php?id=fx-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",FXM 
-http://tecnotv.club/star/smartv.php?id=fxm-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Fox Life 
-http://tecnotv.club/star/smartv.php?id=fox-life-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",History 
-http://tecnotv.club/star/smartv.php?id=history-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",History 2 
-http://tecnotv.club/star/smartv.php?id=history-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",National Geographic 
-http://tecnotv.club/star/smartv.php?id=national-geographic-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Nat Geo Wild 
-http://tecnotv.club/star/smartv.php?id=nat-geo-wild-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",animalplanet 
-http://tecnotv.club/star/smartv.php?id=animal-planet-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Discovery Channel 
-http://tecnotv.club/star/smartv.php?id=discovery-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Discovery Turbo 
-http://tecnotv.club/star/smartv.php?id=discovery-turbo-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",discoveryhyh 
-http://tecnotv.club/star/smartv.php?id=discovery-home-and-health-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",ID Investigation 
-http://tecnotv.club/star/smartv.php?id=id-investigation-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Discovery A&amp;E 
-http://tecnotv.club/star/smartv.php?id=discovery-a-y-e-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Discovery TLC 
-http://tecnotv.club/star/smartv.php?id=discovery-tlc-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Discovery Theater 
-http://tecnotv.club/star/smartv.php?id=discovery-theater-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Discovery World 
-http://tecnotv.club/star/smartv.php?id=discovery-world-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",everything 
-http://tecnotv.club/star/smartv.php?id=everything-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",Cnn Espanol 
-http://tecnotv.club/star/smartv.php?id=cnn-espanol-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",rt noticias 
-http://tecnotv.club/star/smartv.php?id=rt-noticias-en-vivo&f=.m3u8
-
-
-#EXTINF:-1  group-title="SMARTV",Golden Plus 
-http://tecnotv.club/star/smartv.php?id=golden-plus-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",goldenedge 
-http://tecnotv.club/star/smartv.php?id=golden-edge-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Golden Premier 
-http://tecnotv.club/star/smartv.php?id=golden-premier-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",TNT Series 
-http://tecnotv.club/star/smartv.php?id=tnt-series-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",canal sony 
-http://tecnotv.club/star/smartv.php?id=canal-sony-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",axn 
-http://tecnotv.club/star/smartv.php?id=axn-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Universal Channel 
-http://tecnotv.club/star/smartv.php?id=universal-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Studio Universal 
-http://tecnotv.club/star/smartv.php?id=studio-universal-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Multi Premier 
-http://tecnotv.club/star/smartv.php?id=multi-premier-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",AMC 
-http://tecnotv.club/star/smartv.php?id=amc-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Paramount Channel 
-http://tecnotv.club/star/smartv.php?id=paramount-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Cine Latino 
-http://tecnotv.club/star/smartv.php?id=cine-latino-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Dpelicula 
-http://tecnotv.club/star/smartv.php?id=dpelicula-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Isat 
-http://tecnotv.club/star/smartv.php?id=isat-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",MTV 
-http://tecnotv.club/star/smartv.php?id=mtv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",MTV Hits 
-http://tecnotv.club/star/smartv.php?id=mtv-hits-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",HTV 
-http://tecnotv.club/star/smartv.php?id=htv-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Bandamax 
-http://tecnotv.club/star/smartv.php?id=bandamax-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Vh1 
-http://tecnotv.club/star/smartv.php?id=vh1-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Vh1 Classic 
-http://tecnotv.club/star/smartv.php?id=vh1-classic-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",TELEHIT 
-http://tecnotv.club/star/smartv.php?id=telehit-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Top Latino 
-http://tecnotv.club/star/smartv.php?id=top-latino-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",Comedy Central 
-http://tecnotv.club/star/smartv.php?id=comedy-central-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",Lifetime 
-http://tecnotv.club/star/smartv.php?id=lifetime-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",TBS 
-http://tecnotv.club/star/smartv.php?id=tbs-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",el gourmet 
-http://tecnotv.club/star/smartv.php?id=el-gourmet-en-vivo&f=.m3u8
-
-#EXTINF:-1  group-title="SMARTV",Disney Channel 
-http://tecnotv.club/star/smartv.php?id=disney-channel-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Disney xD 
-http://tecnotv.club/star/smartv.php?id=disney-xd-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Disney Junior 
-http://tecnotv.club/star/smartv.php?id=disney-junior-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",nick 
-http://tecnotv.club/star/smartv.php?id=nick-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",nick2 
-http://tecnotv.club/star/smartv.php?id=nick-2-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",nick jr 
-http://tecnotv.club/star/smartv.php?id=nick-jr-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",nicktoons 
-http://tecnotv.club/star/smartv.php?id=nicktoons-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Cartoon Network 
-http://tecnotv.club/star/smartv.php?id=cartoon-network-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Boomerang 
-http://tecnotv.club/star/smartv.php?id=boomerang-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Tooncast 
-http://tecnotv.club/star/smartv.php?id=tooncast-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Discovery Kids 
-http://tecnotv.club/star/smartv.php?id=discovery-kids-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Nat Geo Kids 
-http://tecnotv.club/star/smartv.php?id=nat-geo-kids-en-vivo&f=.m3u8
-#EXTINF:-1  group-title="SMARTV",Boing 
-http://tecnotv.club/star/smartv.php?id=boing-en-vivo&f=.m3u8
